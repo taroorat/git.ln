@@ -1,0 +1,4590 @@
+  Checking Build System
+  Building Custom Rule D:/blender/src/blender/source/blender/makesdna/intern/CMakeLists.txt
+  dna_utils.c
+  makesdna.c
+  BLI_ghash.c
+  BLI_ghash_utils.c
+  BLI_memarena.c
+  BLI_mempool.c
+  Building Custom Rule D:/blender/src/blender/extern/audaspace/CMakeLists.txt
+  DefaultSynchronizer.cpp
+  DeviceManager.cpp
+  NULLDevice.cpp
+  ReadDevice.cpp
+  SoftwareDevice.cpp
+  Exception.cpp
+  hash_mm2a.c
+  mallocn.c
+  mallocn_guarded_impl.c
+  mallocn_lockfree_impl.c
+  Building Custom Rule D:/blender/src/blender/source/blender/blendthumb/CMakeLists.txt
+  mmap_win.c
+  File.cpp
+  FileManager.cpp
+  FileWriter.cpp
+  Accumulator.cpp
+  ADSR.cpp
+  ADSRReader.cpp
+  BlenderThumb.cpp
+  Dll.cpp
+  BaseIIRFilterReader.cpp
+  ButterworthCalculator.cpp
+  Butterworth.cpp
+  CallbackIIRFilterReader.cpp
+  Delay.cpp
+  DelayReader.cpp
+  DynamicIIRFilter.cpp
+  DynamicIIRFilterReader.cpp
+  DynamicMusic.cpp
+  Effect.cpp
+  EffectReader.cpp
+  Envelope.cpp
+  Fader.cpp
+  FaderReader.cpp
+  HighpassCalculator.cpp
+  Highpass.cpp
+  IIRFilter.cpp
+  IIRFilterReader.cpp
+  Limiter.cpp
+  LimiterReader.cpp
+  Loop.cpp
+  LoopReader.cpp
+  LowpassCalculator.cpp
+  Lowpass.cpp
+  Modulator.cpp
+  ModulatorReader.cpp
+  MutableReader.cpp
+  MutableSound.cpp
+  Pitch.cpp
+  PitchReader.cpp
+  PlaybackManager.cpp
+  makesdna.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\bin\Release\makesdna.exe
+  PlaybackCategory.cpp
+  Reverse.cpp
+  ReverseReader.cpp
+  SoundList.cpp
+  Source.cpp
+    正在创建库 D:/blender/src/build_windows_x64_vc16_Release/lib/Release/BlendThumb.lib 和对象 D:/blender/src/build_windows_x64_vc16_Release/lib/Release/BlendThumb.exp
+  Sum.cpp
+  Threshold.cpp
+  Volume.cpp
+  VolumeReader.cpp
+  VolumeSound.cpp
+  VolumeStorage.cpp
+  Sawtooth.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/io/alembic/CMakeLists.txt
+  SawtoothReader.cpp
+  Silence.cpp
+  SilenceReader.cpp
+  Sine.cpp
+  BlendThumb.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\BlendThumb.dll
+  abc_customdata.cc
+  abc_exporter.cc
+  abc_reader_archive.cc
+  abc_reader_camera.cc
+  abc_reader_curves.cc
+  abc_reader_mesh.cc
+  SineReader.cpp
+  Square.cpp
+  SquareReader.cpp
+  Triangle.cpp
+  TriangleReader.cpp
+  ChannelMapper.cpp
+  ChannelMapperReader.cpp
+  Converter.cpp
+  ConverterFunctions.cpp
+  ConverterReader.cpp
+  JOSResample.cpp
+  JOSResampleReaderCoeff.cpp
+  JOSResampleReader.cpp
+  LinearResample.cpp
+  LinearResampleReader.cpp
+  Mixer.cpp
+  ResampleReader.cpp
+  SpecsChanger.cpp
+  AnimateableProperty.cpp
+  Double.cpp
+  DoubleReader.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/io/avi/CMakeLists.txt
+  PingPong.cpp
+  Sequence.cpp
+  avi.c
+  SequenceData.cpp
+  avi_codecs.c
+  avi_endian.c
+  avi_mjpeg.c
+  avi_options.c
+  SequenceEntry.cpp
+  SequenceHandle.cpp
+  avi_rgb.c
+  avi_rgb32.c
+  SequenceReader.cpp
+  Superpose.cpp
+  SuperposeReader.cpp
+  Barrier.cpp
+  Buffer.cpp
+  BufferReader.cpp
+  StreamBuffer.cpp
+  ThreadPool.cpp
+  AUD_ThreadPool.cpp
+  AUD_Source.cpp
+  AUD_Device.cpp
+  AUD_DynamicMusic.cpp
+  AUD_Handle.cpp
+  bf_avi.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_avi.lib
+  AUD_PlaybackManager.cpp
+  AUD_Sequence.cpp
+  AUD_Sound.cpp
+  AUD_Special.cpp
+  FFMPEG.cpp
+  FFMPEGReader.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/blenfont/CMakeLists.txt
+  FFMPEGWriter.cpp
+  blf.c
+  blf_dir.c
+  blf_font.c
+  blf_font_default.c
+  blf_glyph.c
+  SndFile.cpp
+  SndFileReader.cpp
+  blf_thumbs.c
+  SndFileWriter.cpp
+  blf_util.c
+  blf_font_win32_compat.c
+  OpenALDevice.cpp
+  OpenALReader.cpp
+  SDLDevice.cpp
+  PluginManager.cpp
+  bf_blenfont.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_blenfont.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/blenlib/CMakeLists.txt
+  BLI_args.c
+  BLI_array.c
+  BLI_dial_2d.c
+  BLI_dynstr.c
+  BLI_filelist.c
+  BLI_ghash.c
+  BLI_ghash_utils.c
+  BLI_heap.c
+  BLI_heap_simple.c
+  BLI_kdopbvh.c
+  BLI_linklist.c
+  BLI_linklist_lockfree.c
+  audaspace.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\audaspace.lib
+  BLI_memarena.c
+  BLI_memblock.c
+  BLI_memiter.c
+  BLI_mempool.c
+  BLI_timer.c
+  DLRB_tree.c
+  array_store.c
+  array_store_utils.c
+  array_utils.c
+  astar.c
+  bitmap.c
+  bitmap_draw_2d.c
+  boxpack_2d.c
+  buffer.c
+  convexhull_2d.c
+  delaunay_2d.c
+  dynlib.c
+  easing.c
+  edgehash.c
+  endian_switch.c
+  expr_pylike_eval.c
+  fileops.c
+  fnmatch.c
+  freetypefont.c
+  gsqueue.c
+  Building Custom Rule D:/blender/src/blender/source/blender/blentranslation/CMakeLists.txt
+  hash_md5.c
+  hash_mm2a.c
+  hash_mm3.c
+  jitter_2d.c
+  kdtree_1d.c
+  kdtree_2d.c
+  blt_lang.c
+  blt_translation.c
+  kdtree_3d.c
+  kdtree_4d.c
+  lasso_2d.c
+  listbase.c
+  math_base.c
+  math_color.c
+  math_geom.c
+  math_interp.c
+  math_matrix.c
+  math_rotation.c
+  math_solvers.c
+  math_statistics.c
+  math_vector.c
+  memory_utils.c
+  noise.c
+  path_util.c
+  polyfill_2d.c
+  polyfill_2d_beautify.c
+  quadric.c
+  rand.c
+  rct.c
+  scanfill.c
+  scanfill_utils.c
+  smallhash.c
+  sort.c
+  sort_utils.c
+  stack.c
+  storage.c
+  string.c
+  string_cursor_utf8.c
+  string_utf8.c
+  string_utils.c
+  system.c
+  task_iterator.c
+  threads.c
+  time.c
+  timecode.c
+  bf_blentranslation.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_blentranslation.lib
+  uvproject.c
+  voronoi_2d.c
+  voxel.c
+  winstuff.c
+  winstuff_dir.c
+  Building Custom Rule D:/blender/src/blender/extern/audaspace/CMakeLists.txt
+  PyAPI.cpp
+  PyDevice.cpp
+  PyDynamicMusic.cpp
+  PyHandle.cpp
+  PyPlaybackManager.cpp
+  PySequence.cpp
+  BLI_index_range.cc
+  task_pool.cc
+  abc_reader_nurbs.cc
+  PySequenceEntry.cpp
+  PySound.cpp
+  abc_reader_object.cc
+  PySource.cpp
+  PyThreadPool.cpp
+  abc_reader_points.cc
+  abc_reader_transform.cc
+  abc_util.cc
+  abc_writer_archive.cc
+  bf_blenlib.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_blenlib.lib
+  abc_writer_camera.cc
+  Building Custom Rule D:/blender/src/blender/source/blender/bmesh/CMakeLists.txt
+  audaspace-py.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\audaspace-py.lib
+  abc_writer_curves.cc
+  abc_writer_hair.cc
+  abc_writer_mball.cc
+  abc_writer_mesh.cc
+  abc_writer_nurbs.cc
+  Building Custom Rule D:/blender/src/blender/source/blender/io/collada/CMakeLists.txt
+  bmo_beautify.c
+  bmo_bevel.c
+  bmo_bisect_plane.c
+  bmo_bridge.c
+  bmo_connect.c
+  bmo_connect_concave.c
+  bmo_connect_nonplanar.c
+  bmo_connect_pair.c
+  bmo_create.c
+  bmo_dissolve.c
+  bmo_dupe.c
+  bmo_edgenet.c
+  bmo_extrude.c
+  bmo_fill_attribute.c
+  bmo_fill_edgeloop.c
+  bmo_fill_grid.c
+  bmo_fill_holes.c
+  bmo_hull.c
+  bmo_inset.c
+  abc_writer_object.cc
+  bmo_join_triangles.c
+  bmo_mesh_conv.c
+  bmo_mirror.c
+  bmo_normals.c
+  bmo_offset_edgeloops.c
+  bmo_planar_faces.c
+  bmo_poke.c
+  bmo_primitive.c
+  abc_writer_points.cc
+  bmo_removedoubles.c
+  bmo_rotate_edges.c
+  AnimationClipExporter.cpp
+  bmo_smooth_laplacian.c
+  bmo_split_edges.c
+  abc_writer_transform.cc
+  bmo_subdivide.c
+  bmo_subdivide_edgering.c
+  AnimationExporter.cpp
+  bmo_symmetrize.c
+  bmo_triangulate.c
+  AnimationImporter.cpp
+  bmo_unsubdivide.c
+  bmo_utils.c
+  ArmatureExporter.cpp
+  bmo_wireframe.c
+  bmesh_callback_generic.c
+  bmesh_construct.c
+  bmesh_core.c
+  ArmatureImporter.cpp
+  bmesh_delete.c
+  bmesh_edgeloop.c
+  bmesh_interp.c
+  bmesh_iterators.c
+  BCAnimationCurve.cpp
+  bmesh_log.c
+  bmesh_marking.c
+  alembic_capi.cc
+  bmesh_mesh.c
+  bmesh_mesh_conv.c
+  bmesh_mesh_duplicate.c
+  bmesh_mesh_validate.c
+  bmesh_mods.c
+  bmesh_opdefines.c
+  bmesh_operators.c
+  bmesh_polygon.c
+  bmesh_polygon_edgenet.c
+  bmesh_query.c
+  bmesh_structure.c
+  BCAnimationSampler.cpp
+  bmesh_walkers.c
+  BCMath.cpp
+  bmesh_walkers_impl.c
+  bmesh_beautify.c
+  bmesh_bevel.c
+  bmesh_bisect_plane.c
+  bmesh_decimate_collapse.c
+  bmesh_decimate_dissolve.c
+  BCSampleData.cpp
+  bmesh_decimate_unsubdivide.c
+  bmesh_edgenet.c
+  bmesh_edgesplit.c
+  bmesh_intersect.c
+  bmesh_intersect_edges.c
+  bmesh_path.c
+  bmesh_path_region.c
+  bmesh_region_match.c
+  BlenderContext.cpp
+  bmesh_separate.c
+  bmesh_triangulate.c
+  CameraExporter.cpp
+  bmesh_wireframe.c
+  ControllerExporter.cpp
+  DocumentExporter.cpp
+  DocumentImporter.cpp
+  EffectExporter.cpp
+  ErrorHandler.cpp
+  ExportSettings.cpp
+  Generating dna.c, dna_type_offsets.h, dna_verify.c
+  ExtraHandler.cpp
+  ExtraTags.cpp
+  GeometryExporter.cpp
+  ImageExporter.cpp
+  ImportSettings.cpp
+  InstanceWriter.cpp
+  LightExporter.cpp
+  bf_alembic.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_alembic.lib
+  MaterialExporter.cpp
+  Materials.cpp
+  MeshImporter.cpp
+  SceneExporter.cpp
+  SkinInfo.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/depsgraph/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/makesdna/intern/CMakeLists.txt
+  TransformReader.cpp
+  TransformWriter.cpp
+  collada.cpp
+  collada_internal.cpp
+  collada_utils.cpp
+  deg_builder.cc
+  deg_builder_cache.cc
+  deg_builder_cycle.cc
+  deg_builder_map.cc
+  deg_builder_nodes.cc
+  deg_builder_nodes_rig.cc
+  deg_builder_nodes_scene.cc
+  bf_bmesh.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_bmesh.lib
+  deg_builder_nodes_view_layer.cc
+  deg_builder_pchanmap.cc
+  deg_builder_relations.cc
+  deg_builder_relations_keys.cc
+  deg_builder_relations_rig.cc
+  deg_builder_relations_scene.cc
+  deg_builder_relations_view_layer.cc
+  Building Custom Rule D:/blender/src/blender/source/blender/makesdna/intern/CMakeLists.txt
+  deg_builder_remove_noop.cc
+  deg_builder_rna.cc
+  BLI_ghash.c
+  BLI_ghash_utils.c
+  deg_builder_transitive.cc
+  BLI_linklist.c
+  BLI_memarena.c
+  BLI_mempool.c
+  endian_switch.c
+  deg_debug.cc
+  hash_mm2a.c
+  listbase.c
+  deg_debug_relations_graphviz.cc
+  deg_debug_stats_gnuplot.cc
+  deg_eval.cc
+  deg_eval_copy_on_write.cc
+  deg_eval_flush.cc
+  deg_eval_runtime_backup.cc
+  deg_eval_runtime_backup_animation.cc
+  bf_collada.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_collada.lib
+  deg_eval_runtime_backup_modifier.cc
+  deg_eval_runtime_backup_movieclip.cc
+  deg_eval_runtime_backup_object.cc
+  deg_eval_runtime_backup_pose.cc
+  bf_dna_blenlib.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_dna_blenlib.lib
+  deg_eval_runtime_backup_scene.cc
+  deg_eval_runtime_backup_sequence.cc
+  deg_eval_runtime_backup_sequencer.cc
+  deg_eval_runtime_backup_sound.cc
+  deg_eval_runtime_backup_volume.cc
+  deg_eval_stats.cc
+  deg_node.cc
+  dna_defaults.c
+  deg_node_component.cc
+  deg_node_factory.cc
+  dna_genfile.c
+  deg_node_id.cc
+  dna_utils.c
+  dna.c
+  dna_verify.c
+  deg_node_operation.cc
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/animation/CMakeLists.txt
+  deg_node_time.cc
+  depsgraph.cc
+  depsgraph_build.cc
+  depsgraph_debug.cc
+  depsgraph_eval.cc
+  depsgraph_physics.cc
+  depsgraph_query.cc
+  depsgraph_query_foreach.cc
+  depsgraph_query_iter.cc
+  depsgraph_registry.cc
+  depsgraph_relation.cc
+  anim_channels_defines.c
+  anim_channels_edit.c
+  anim_deps.c
+  depsgraph_tag.cc
+  anim_draw.c
+  anim_filter.c
+  anim_ipo_utils.c
+  depsgraph_type.cc
+  anim_markers.c
+  depsgraph_update.cc
+  anim_motion_paths.c
+  anim_ops.c
+  drivers.c
+  fmodifier_ui.c
+  keyframes_draw.c
+D:\blender\src\blender\source\blender\depsgraph\intern\depsgraph_tag.cc(242,3): warning C4062: 枚举数“ID_RECALC_TAG_FOR_UNDO”(在枚举“IDRecalcFlag”的 switch 中)没有被处理 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\depsgraph\bf_depsgraph.vcxproj]
+D:\blender\src\blender\source\blender\makesdna\DNA_ID.h(600): message : 参见“IDRecalcFlag”的声明 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\depsgraph\bf_depsgraph.vcxproj]
+D:\blender\src\blender\source\blender\depsgraph\intern\depsgraph_tag.cc(742,3): warning C4062: 枚举数“ID_RECALC_TAG_FOR_UNDO”(在枚举“IDRecalcFlag”的 switch 中)没有被处理 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\depsgraph\bf_depsgraph.vcxproj]
+D:\blender\src\blender\source\blender\makesdna\DNA_ID.h(600): message : 参见“IDRecalcFlag”的声明 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\depsgraph\bf_depsgraph.vcxproj]
+  keyframes_edit.c
+  keyframes_general.c
+  keyframing.c
+  keyingsets.c
+  time_scrub_ui.c
+  bf_dna.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_dna.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/armature/CMakeLists.txt
+  bf_depsgraph.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_depsgraph.lib
+  armature_add.c
+  armature_edit.c
+  armature_naming.c
+  armature_ops.c
+  armature_relations.c
+  armature_select.c
+  armature_skinning.c
+  armature_utils.c
+  editarmature_undo.c
+  meshlaplacian.c
+  pose_edit.c
+  pose_group.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/curve/CMakeLists.txt
+  pose_lib.c
+  pose_select.c
+  pose_slide.c
+  pose_transform.c
+  pose_utils.c
+  bf_editor_animation.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_animation.lib
+  curve_ops.c
+  editcurve.c
+  editcurve_add.c
+  editcurve_paint.c
+  editcurve_query.c
+  editcurve_select.c
+  editcurve_undo.c
+  editfont.c
+  editfont_undo.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/gizmo_library/CMakeLists.txt
+  bf_editor_armature.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_armature.lib
+  gizmo_draw_utils.c
+  gizmo_library_presets.c
+  gizmo_library_utils.c
+  geom_arrow_gizmo.c
+  geom_cube_gizmo.c
+  geom_dial_gizmo.c
+  arrow3d_gizmo.c
+  blank3d_gizmo.c
+  button2d_gizmo.c
+  cage2d_gizmo.c
+  cage3d_gizmo.c
+  dial3d_gizmo.c
+  move3d_gizmo.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/gpencil/CMakeLists.txt
+  primitive3d_gizmo.c
+  bf_editor_curve.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_curve.lib
+  annotate_draw.c
+  annotate_paint.c
+  drawgpencil.c
+  editaction_gpencil.c
+  gpencil_add_monkey.c
+  gpencil_add_stroke.c
+  gpencil_armature.c
+  gpencil_convert.c
+  gpencil_data.c
+  gpencil_edit.c
+  gpencil_fill.c
+  gpencil_interpolate.c
+  gpencil_merge.c
+  gpencil_ops.c
+  gpencil_ops_versioning.c
+  Building Custom Rule D:/blender/src/blender/source/blender/makesrna/intern/CMakeLists.txt
+  gpencil_paint.c
+  gpencil_primitive.c
+  gpencil_sculpt_paint.c
+  gpencil_select.c
+  gpencil_undo.c
+  gpencil_utils.c
+  gpencil_uv.c
+  gpencil_vertex_ops.c
+  gpencil_vertex_paint.c
+  gpencil_weight_paint.c
+  bf_editor_gizmo_library.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_gizmo_library.lib
+  makesrna.c
+  rna_define.c
+  rna_ID.c
+  rna_action.c
+  rna_animation.c
+  rna_animviz.c
+  rna_armature.c
+  rna_boid.c
+  rna_brush.c
+  rna_cachefile.c
+  rna_camera.c
+  rna_cloth.c
+  rna_collection.c
+  rna_color.c
+  rna_constraint.c
+  rna_context.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_view3d/CMakeLists.txt
+  rna_curve.c
+  rna_curveprofile.c
+  rna_depsgraph.c
+  rna_dynamicpaint.c
+  rna_fcurve.c
+  Building Custom Rule D:/blender/src/blender/source/blender/blenkernel/CMakeLists.txt
+  rna_fluid.c
+  rna_gpencil.c
+  rna_gpencil_modifier.c
+  rna_image.c
+  drawobject.c
+  space_view3d.c
+  view3d_buttons.c
+  view3d_camera_control.c
+  view3d_draw.c
+  view3d_edit.c
+  rna_key.c
+  rna_lattice.c
+  rna_layer.c
+  view3d_fly.c
+  rna_light.c
+  rna_lightprobe.c
+  rna_linestyle.c
+  rna_main.c
+  rna_mask.c
+  rna_material.c
+  rna_mesh.c
+  rna_meta.c
+  rna_modifier.c
+  rna_movieclip.c
+  view3d_gizmo_armature.c
+  rna_nla.c
+  view3d_gizmo_camera.c
+  rna_nodetree.c
+  rna_object.c
+  rna_object_force.c
+  view3d_gizmo_empty.c
+  rna_packedfile.c
+  view3d_gizmo_forcefield.c
+  view3d_gizmo_light.c
+  rna_palette.c
+  rna_particle.c
+  view3d_gizmo_navigate.c
+  rna_pose.c
+  userdef_default.c
+  CCGSubSurf.c
+  CCGSubSurf_legacy.c
+  CCGSubSurf_opensubdiv.c
+  view3d_gizmo_navigate_type.c
+  rna_render.c
+  rna_rigidbody.c
+  CCGSubSurf_opensubdiv_converter.c
+  rna_rna.c
+  CCGSubSurf_util.c
+  rna_scene.c
+  view3d_gizmo_preselect.c
+  rna_screen.c
+  DerivedMesh.c
+  rna_sculpt_paint.c
+  view3d_gizmo_preselect_type.c
+  rna_sequencer.c
+  action.c
+  view3d_gizmo_ruler.c
+  rna_shader_fx.c
+  addon.c
+  anim_data.c
+  view3d_gizmo_tool_generic.c
+  rna_sound.c
+  rna_space.c
+  rna_speaker.c
+  view3d_header.c
+  anim_path.c
+  anim_sys.c
+  anim_visualization.c
+  appdir.c
+  armature.c
+  view3d_iterators.c
+  rna_test.c
+  rna_text.c
+  rna_texture.c
+  rna_timeline.c
+  rna_tracking.c
+  view3d_ops.c
+  rna_ui.c
+  view3d_project.c
+  view3d_select.c
+  view3d_snap.c
+  view3d_utils.c
+  view3d_view.c
+  view3d_walk.c
+  rna_userdef.c
+  rna_vfont.c
+  armature_update.c
+  autoexec.c
+  rna_volume.c
+  rna_wm.c
+  rna_wm_gizmo.c
+  rna_workspace.c
+  rna_world.c
+  blender.c
+  blender_copybuffer.c
+  blender_undo.c
+  blender_user_menu.c
+  rna_xr.c
+  rna_action_api.c
+  blendfile.c
+  rna_animation_api.c
+  boids.c
+  rna_armature_api.c
+  bpath.c
+  rna_camera_api.c
+  brush.c
+  rna_curve_api.c
+  bvhutils.c
+  rna_fcurve_api.c
+  cachefile.c
+  rna_image_api.c
+  rna_lattice_api.c
+  rna_main_api.c
+  rna_material_api.c
+  rna_mesh_api.c
+  rna_meta_api.c
+  callbacks.c
+  camera.c
+  cdderivedmesh.c
+  cloth.c
+  collection.c
+  collision.c
+  rna_object_api.c
+  rna_pose_api.c
+  rna_scene_api.c
+  rna_sequencer_api.c
+  rna_sound_api.c
+  rna_space_api.c
+  colorband.c
+  colortools.c
+  rna_text_api.c
+  constraint.c
+  rna_texture_api.c
+  context.c
+  rna_ui_api.c
+  rna_vfont_api.c
+  crazyspace.c
+  rna_wm_api.c
+  curve.c
+  rna_wm_gizmo_api.c
+  rna_workspace_api.c
+  bf_editor_gpencil.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_gpencil.lib
+  clog.c
+  curve_decimate.c
+  curveprofile.c
+  customdata.c
+  mallocn.c
+  mallocn_guarded_impl.c
+  customdata_file.c
+  mallocn_lockfree_impl.c
+  data_transfer.c
+  deform.c
+  displist.c
+  mmap_win.c
+  displist_tangent.c
+  userdef_default.c
+  userdef_default_theme.c
+  dynamicpaint.c
+  editlattice.c
+  editmesh.c
+  editmesh_bvh.c
+  editmesh_cache.c
+  editmesh_tangent.c
+  effect.c
+  fcurve.c
+  fluid.c
+  fmodifier.c
+  font.c
+  bf_editor_space_view3d.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_view3d.lib
+  freestyle.c
+  gpencil.c
+  gpencil_geom.c
+  gpencil_modifier.c
+  hair.c
+  icons.c
+  icons_rasterize.c
+  idprop.c
+  idprop_utils.c
+  idtype.c
+  image.c
+  image_gen.c
+  Building Custom Rule D:/blender/src/blender/source/blender/blenloader/CMakeLists.txt
+  image_save.c
+  ipo.c
+  kelvinlet.c
+  key.c
+  keyconfig.c
+  makesrna.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\bin\Release\makesrna.exe
+  userdef_default_theme.c
+  blend_validate.c
+  readblenentry.c
+  readfile.c
+  lattice.c
+  layer.c
+  layer_utils.c
+  undofile.c
+  versioning_250.c
+  versioning_260.c
+  versioning_270.c
+  lib_id.c
+  lib_id_delete.c
+  lib_override.c
+  lib_query.c
+  versioning_280.c
+  lib_remap.c
+  library.c
+  light.c
+  lightprobe.c
+  versioning_cycles.c
+  main.c
+  linestyle.c
+  main_idmap.c
+  mask.c
+  mask_evaluate.c
+  versioning_defaults.c
+  mask_rasterize.c
+  material.c
+  mball.c
+  mball_tessellate.c
+  mesh.c
+  mesh_convert.c
+  mesh_evaluate.c
+  mesh_iterators.c
+  versioning_dna.c
+  versioning_legacy.c
+  mesh_mapping.c
+  mesh_merge.c
+  mesh_mirror.c
+  versioning_userdef.c
+  writefile.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/interface/CMakeLists.txt
+  mesh_remap.c
+  mesh_remesh_voxel.c
+  mesh_runtime.c
+  mesh_tangent.c
+  mesh_validate.c
+  modifier.c
+  multires.c
+  movieclip.c
+  multires_reshape.c
+  multires_reshape_apply_base.c
+  multires_reshape_ccg.c
+  multires_reshape_smooth.c
+  multires_reshape_util.c
+  multires_reshape_vertcos.c
+  multires_subdiv.c
+  nla.c
+  node.c
+  object.c
+  object_deform.c
+  object_dupli.c
+  object_facemap.c
+  ocean.c
+  object_update.c
+  ocean_spectrum.c
+  outliner_treehash.c
+  packedFile.c
+  paint.c
+  paint_toolslots.c
+  particle.c
+  particle_child.c
+  interface.c
+  interface_align.c
+  interface_anim.c
+  particle_distribute.c
+  interface_context_menu.c
+  particle_system.c
+  pbvh.c
+  pbvh_bmesh.c
+  interface_draw.c
+  pointcache.c
+  pointcloud.c
+  interface_eyedropper.c
+  interface_eyedropper_color.c
+  report.c
+  interface_eyedropper_colorband.c
+  rigidbody.c
+  scene.c
+  interface_eyedropper_datablock.c
+  interface_eyedropper_depth.c
+  screen.c
+  interface_eyedropper_driver.c
+  seqcache.c
+  interface_eyedropper_gpencil_color.c
+  seqeffects.c
+  seqmodifier.c
+  interface_handlers.c
+  interface_icons.c
+  interface_icons_event.c
+  interface_layout.c
+  interface_ops.c
+  interface_panel.c
+  interface_query.c
+  interface_region_color_picker.c
+  seqprefetch.c
+  sequencer.c
+  interface_region_hud.c
+  shader_fx.c
+  interface_region_menu_pie.c
+  shrinkwrap.c
+  softbody.c
+  interface_region_menu_popup.c
+  sound.c
+  interface_region_popover.c
+  speaker.c
+  interface_region_popup.c
+  studiolight.c
+  subdiv.c
+  interface_region_search.c
+  subdiv_ccg.c
+  interface_region_tooltip.c
+  interface_regions.c
+  interface_style.c
+  interface_templates.c
+  interface_utils.c
+  interface_widgets.c
+  subdiv_ccg_mask.c
+  subdiv_ccg_material.c
+  subdiv_converter.c
+  resources.c
+  view2d.c
+  subdiv_converter_mesh.c
+  subdiv_deform.c
+  view2d_draw.c
+  subdiv_displacement.c
+  subdiv_displacement_multires.c
+  subdiv_eval.c
+  view2d_gizmo_navigate.c
+  view2d_ops.c
+  subdiv_foreach.c
+  subdiv_mesh.c
+  subdiv_stats.c
+  subdiv_topology.c
+  subsurf_ccg.c
+  text.c
+  text_suggestions.c
+  bf_blenloader.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_blenloader.lib
+  texture.c
+  tracking.c
+  tracking_auto.c
+  tracking_detect.c
+  tracking_plane_tracker.c
+  tracking_region_tracker.c
+  Generating rna_ID_gen.c, rna_action_gen.c, rna_animation_gen.c, rna_animviz_gen.c, rna_armature_gen.c, rna_boid_gen.c, rna_brush_gen.c, rna_cachefile_gen.c, rna_camera_gen.c, rna_cloth_gen.c, rna_collection_gen.c, rna_color_gen.c, rna_constraint_gen.c, rna_context_gen.c, rna_curve_gen.c, rna_curveprofile_gen.c, rna_depsgraph_gen.c, rna_dynamicpaint_gen.c, rna_fcurve_gen.c, rna_fluid_gen.c, rna_gpencil_gen.c, rna_gpencil_modifier_gen.c, rna_image_gen.c, rna_key_gen.c, rna_lattice_gen.c, rna_layer_gen.c, rna_light_gen.c, rna_lightprobe_gen.c, rna_linestyle_gen.c, rna_main_gen.c, rna_mask_gen.c, rna_material_gen.c, rna_mesh_gen.c, rna_meta_gen.c, rna_modifier_gen.c, rna_movieclip_gen.c, rna_nla_gen.c, rna_nodetree_gen.c, rna_object_gen.c, rna_object_force_gen.c, rna_packedfile_gen.c, rna_palette_gen.c, rna_particle_gen.c, rna_pose_gen.c, rna_render_gen.c, rna_rigidbody_gen.c, rna_rna_gen.c, rna_scene_gen.c, rna_screen_gen.c, rna_sculpt_paint_gen.c, rna_sequencer_gen.c, rna_shader_fx_gen.c, rna_sound_gen.c, rna_space_gen.c, rna_speaker_gen.c, rna_test_gen.c, rna_text_gen.c, rna_texture_gen.c, rna_timeline_gen.c, rna_tracking_gen.c, rna_ui_gen.c, rna_userdef_gen.c, rna_vfont_gen.c, rna_volume_gen.c, rna_wm_gen.c, rna_wm_gizmo_gen.c, rna_workspace_gen.c, rna_world_gen.c, rna_xr_gen.c, rna_prototypes_gen.h
+  tracking_solver.c
+  tracking_stabilize.c
+  tracking_util.c
+  undo_system.c
+  unit.c
+  bf_editor_interface.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_interface.lib
+  workspace.c
+  world.c
+  writeavi.c
+  writeffmpeg.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/io/CMakeLists.txt
+  io_alembic.c
+  io_cache.c
+  io_collada.c
+  io_ops.c
+  io_usd.c
+  bf_editor_io.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_io.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/lattice/CMakeLists.txt
+  editlattice_select.c
+  editlattice_tools.c
+  editlattice_undo.c
+  lattice_ops.c
+  bf_editor_lattice.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_lattice.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/makesrna/intern/CMakeLists.txt
+  rna_access.c
+  rna_access_compare_override.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/mask/CMakeLists.txt
+  rna_ID_gen.c
+  rna_action_gen.c
+  rna_animation_gen.c
+  rna_animviz_gen.c
+  rna_armature_gen.c
+  rna_boid_gen.c
+  rna_brush_gen.c
+  rna_cachefile_gen.c
+  rna_camera_gen.c
+  rna_cloth_gen.c
+  rna_collection_gen.c
+  rna_color_gen.c
+  rna_constraint_gen.c
+  rna_context_gen.c
+  rna_curve_gen.c
+  rna_curveprofile_gen.c
+  rna_depsgraph_gen.c
+  rna_dynamicpaint_gen.c
+  rna_fcurve_gen.c
+  rna_fluid_gen.c
+  rna_gpencil_gen.c
+  rna_gpencil_modifier_gen.c
+  rna_image_gen.c
+  rna_key_gen.c
+  rna_lattice_gen.c
+  rna_layer_gen.c
+  rna_light_gen.c
+  rna_lightprobe_gen.c
+  rna_linestyle_gen.c
+  rna_main_gen.c
+  rna_mask_gen.c
+  rna_material_gen.c
+  rna_mesh_gen.c
+  rna_meta_gen.c
+  rna_modifier_gen.c
+  rna_movieclip_gen.c
+  rna_nla_gen.c
+  rna_nodetree_gen.c
+  pbvh_parallel.cc
+  volume.cc
+  rna_object_gen.c
+  rna_object_force_gen.c
+  mask_add.c
+  rna_packedfile_gen.c
+  volume_render.cc
+  mask_draw.c
+  rna_palette_gen.c
+  rna_particle_gen.c
+  rna_pose_gen.c
+  mask_edit.c
+  mask_editaction.c
+  rna_render_gen.c
+  mask_ops.c
+  rna_rigidbody_gen.c
+  rna_rna_gen.c
+  mask_query.c
+  mask_relationships.c
+  rna_scene_gen.c
+  rna_screen_gen.c
+  rna_sculpt_paint_gen.c
+  mask_select.c
+  rna_sequencer_gen.c
+  mask_shapekey.c
+  rna_shader_fx_gen.c
+  rna_sound_gen.c
+  rna_space_gen.c
+  rna_speaker_gen.c
+  rna_test_gen.c
+  rna_text_gen.c
+  rna_texture_gen.c
+  rna_timeline_gen.c
+  rna_tracking_gen.c
+  rna_ui_gen.c
+  rna_userdef_gen.c
+  rna_vfont_gen.c
+  rna_volume_gen.c
+  rna_wm_gen.c
+  rna_wm_gizmo_gen.c
+  rna_workspace_gen.c
+  rna_world_gen.c
+  rna_xr_gen.c
+  bf_editor_mask.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_mask.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/mesh/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/metaball/CMakeLists.txt
+  editface.c
+  editmesh_add.c
+  editmesh_add_gizmo.c
+  editmesh_automerge.c
+  editmesh_bevel.c
+  editmesh_bisect.c
+  editmesh_extrude.c
+  editmball_undo.c
+  mball_edit.c
+  mball_ops.c
+  editmesh_extrude_screw.c
+  editmesh_extrude_spin.c
+  editmesh_extrude_spin_gizmo.c
+  editmesh_inset.c
+  editmesh_intersect.c
+  editmesh_knife.c
+  editmesh_knife_project.c
+  editmesh_loopcut.c
+  editmesh_mask_extract.c
+  editmesh_path.c
+  editmesh_polybuild.c
+  editmesh_preselect_edgering.c
+  editmesh_preselect_elem.c
+  editmesh_rip.c
+  editmesh_rip_edge.c
+  editmesh_select.c
+  editmesh_select_similar.c
+  editmesh_tools.c
+  editmesh_undo.c
+  editmesh_utils.c
+  mesh_data.c
+  mesh_mirror.c
+  mesh_ops.c
+  meshtools.c
+  bf_rna.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_rna.lib
+  bf_editor_metaball.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_metaball.lib
+  bf_editor_mesh.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_mesh.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/object/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/intern/cycles/blender/CMakeLists.txt
+  object_add.c
+  object_bake.c
+  object_bake_api.c
+  object_collection.c
+  object_constraint.c
+  object_data_transfer.c
+  object_data_transform.c
+  object_edit.c
+  object_facemap_ops.c
+  object_gpencil_modifier.c
+  object_hook.c
+  object_modes.c
+  object_modifier.c
+  blender_camera.cpp
+  blender_device.cpp
+  blender_image.cpp
+  blender_geometry.cpp
+  blender_light.cpp
+  blender_mesh.cpp
+  object_ops.c
+  object_random.c
+  object_relations.c
+  object_remesh.c
+  object_select.c
+  object_shader_fx.c
+  object_shapekey.c
+  object_transform.c
+  object_utils.c
+  object_vgroup.c
+  object_volume.c
+  object_warp.c
+  bf_editor_object.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_object.lib
+  blender_object.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/physics/CMakeLists.txt
+  blender_object_cull.cpp
+  blender_particles.cpp
+  blender_curves.cpp
+  blender_logging.cpp
+  blender_python.cpp
+  dynamicpaint_ops.c
+  blender_session.cpp
+  particle_boids.c
+  particle_edit.c
+  particle_edit_undo.c
+  particle_object.c
+  physics_fluid.c
+  physics_ops.c
+  physics_pointcache.c
+  rigidbody_constraint.c
+  rigidbody_object.c
+  rigidbody_world.c
+  blender_shader.cpp
+  blender_sync.cpp
+  bf_editor_physics.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_physics.lib
+  blender_texture.cpp
+  blender_viewport.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/render/CMakeLists.txt
+  blender_volume.cpp
+  render_internal.c
+  render_opengl.c
+  render_ops.c
+  render_preview.c
+  render_shading.c
+  render_update.c
+  render_view.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/scene/CMakeLists.txt
+  bf_blenkernel.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_blenkernel.lib
+  scene_edit.c
+  bf_editor_scene.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_scene.lib
+  bf_editor_render.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_render.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/screen/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/sculpt_paint/CMakeLists.txt
+  area.c
+  area_query.c
+  area_utils.c
+  glutil.c
+  screen_context.c
+  screen_draw.c
+  screen_edit.c
+  screen_geometry.c
+  screen_ops.c
+  paint_cursor.c
+  paint_curve.c
+  paint_curve_undo.c
+  paint_hide.c
+  paint_image.c
+  screen_user_menu.c
+  screendump.c
+  paint_image_2d.c
+  paint_image_proj.c
+  workspace_edit.c
+  paint_mask.c
+  workspace_layout_edit.c
+  paint_ops.c
+  paint_stroke.c
+  paint_utils.c
+  paint_vertex.c
+  paint_vertex_color_ops.c
+  paint_vertex_color_utils.c
+  paint_vertex_proj.c
+  paint_vertex_weight_ops.c
+  paint_vertex_weight_utils.c
+  sculpt.c
+  sculpt_automasking.c
+  sculpt_cloth.c
+  sculpt_detail.c
+  sculpt_dyntopo.c
+  sculpt_face_set.c
+  sculpt_filter_mask.c
+  sculpt_filter_mesh.c
+  sculpt_mask_expand.c
+  sculpt_multiplane_scrape.c
+  sculpt_pose.c
+  sculpt_smooth.c
+  sculpt_transform.c
+  sculpt_undo.c
+  sculpt_uv.c
+  bf_editor_screen.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_screen.lib
+  bf_intern_cycles.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_cycles.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/sound/CMakeLists.txt
+  bf_editor_sculpt_paint.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_sculpt_paint.lib
+  sound_ops.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_action/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_api/CMakeLists.txt
+  action_buttons.c
+  action_data.c
+  action_draw.c
+  action_edit.c
+  action_ops.c
+  action_select.c
+  space_action.c
+  spacetypes.c
+  bf_editor_sound.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_sound.lib
+  bf_editor_space_action.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_action.lib
+  bf_editor_space_api.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_api.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_buttons/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_clip/CMakeLists.txt
+  buttons_context.c
+  buttons_ops.c
+  buttons_texture.c
+  space_buttons.c
+  clip_buttons.c
+  clip_dopesheet_draw.c
+  clip_dopesheet_ops.c
+  clip_draw.c
+  clip_editor.c
+  clip_graph_draw.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_console/CMakeLists.txt
+  clip_graph_ops.c
+  clip_ops.c
+  clip_utils.c
+  clip_toolbar.c
+  space_clip.c
+  tracking_ops.c
+  console_draw.c
+  console_ops.c
+  space_console.c
+  tracking_ops_detect.c
+  tracking_ops_orient.c
+  tracking_ops_plane.c
+  tracking_ops_solve.c
+  tracking_ops_stabilize.c
+  tracking_ops_track.c
+  tracking_ops_utils.c
+  tracking_select.c
+  bf_editor_space_buttons.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_buttons.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_file/CMakeLists.txt
+  file_draw.c
+  file_ops.c
+  file_panels.c
+  file_utils.c
+  filelist.c
+  filesel.c
+  fsmenu.c
+  space_file.c
+  bf_editor_space_console.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_console.lib
+  bf_editor_space_clip.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_clip.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_graph/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_image/CMakeLists.txt
+  image_buttons.c
+  image_draw.c
+  image_edit.c
+  graph_buttons.c
+  image_ops.c
+  image_sequence.c
+  image_undo.c
+  graph_draw.c
+  graph_edit.c
+  graph_ops.c
+  graph_select.c
+  graph_utils.c
+  space_image.c
+  space_graph.c
+  bf_editor_space_file.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_file.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_info/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_nla/CMakeLists.txt
+  info_draw.c
+  info_ops.c
+  info_report.c
+  info_stats.c
+  space_info.c
+  textview.c
+  nla_buttons.c
+  nla_channels.c
+  nla_draw.c
+  nla_edit.c
+  nla_ops.c
+  nla_select.c
+  space_nla.c
+  bf_editor_space_image.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_image.lib
+  bf_editor_space_info.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_info.lib
+  bf_editor_space_graph.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_graph.lib
+  bf_editor_space_nla.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_nla.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_node/CMakeLists.txt
+  drawnode.c
+  node_add.c
+  node_buttons.c
+  node_draw.c
+  node_edit.c
+  node_gizmo.c
+  node_group.c
+  node_ops.c
+  node_relationships.c
+  node_select.c
+  node_templates.c
+  node_toolbar.c
+  node_view.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_outliner/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_script/CMakeLists.txt
+  space_node.c
+  script_edit.c
+  outliner_collections.c
+  outliner_dragdrop.c
+  script_ops.c
+  space_script.c
+  outliner_draw.c
+  outliner_edit.c
+  outliner_ops.c
+  outliner_select.c
+  outliner_sync.c
+  outliner_tools.c
+  outliner_tree.c
+  outliner_utils.c
+  space_outliner.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_sequencer/CMakeLists.txt
+  sequencer_add.c
+  sequencer_buttons.c
+  sequencer_draw.c
+  sequencer_edit.c
+  sequencer_modifier.c
+  sequencer_ops.c
+  sequencer_preview.c
+  sequencer_scopes.c
+  sequencer_select.c
+  sequencer_view.c
+  space_sequencer.c
+  bf_editor_space_node.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_node.lib
+  bf_editor_space_outliner.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_outliner.lib
+  bf_editor_space_script.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_script.lib
+  bf_editor_space_sequencer.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_sequencer.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_statusbar/CMakeLists.txt
+  space_statusbar.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_text/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_topbar/CMakeLists.txt
+  space_text.c
+  text_autocomplete.c
+  text_draw.c
+  text_format.c
+  text_format_lua.c
+  text_format_osl.c
+  space_topbar.c
+  text_format_pov.c
+  text_format_pov_ini.c
+  text_format_py.c
+  text_header.c
+  text_ops.c
+  text_undo.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/space_userpref/CMakeLists.txt
+  space_userpref.c
+  userpref_ops.c
+  bf_editor_space_statusbar.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_statusbar.lib
+  bf_editor_space_text.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_text.lib
+  bf_editor_space_topbar.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_topbar.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/transform/CMakeLists.txt
+  transform.c
+  transform_constraints.c
+  transform_convert.c
+  transform_convert_action.c
+  transform_convert_armature.c
+  transform_convert_cursor.c
+  bf_editor_space_userpref.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_space_userpref.lib
+  transform_convert_curve.c
+  transform_convert_gpencil.c
+  transform_convert_graph.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/undo/CMakeLists.txt
+  transform_convert_lattice.c
+  transform_convert_mask.c
+  transform_convert_mball.c
+  transform_convert_mesh.c
+  transform_convert_nla.c
+  transform_convert_node.c
+  transform_convert_object.c
+  transform_convert_paintcurve.c
+  transform_convert_particle.c
+  transform_convert_sculpt.c
+  transform_convert_sequencer.c
+  ed_undo.c
+  memfile_undo.c
+  undo_system_types.c
+  transform_convert_tracking.c
+  transform_draw_cursors.c
+  transform_generics.c
+  transform_gizmo_2d.c
+  transform_gizmo_3d.c
+  transform_gizmo_extrude_3d.c
+  transform_input.c
+  transform_mode.c
+  transform_mode_align.c
+  transform_mode_baketime.c
+  transform_mode_bbone_resize.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/util/CMakeLists.txt
+  transform_mode_bend.c
+  transform_mode_boneenvelope.c
+  transform_mode_boneroll.c
+  transform_mode_curveshrinkfatten.c
+  transform_mode_edge_bevelweight.c
+  transform_mode_edge_crease.c
+  ed_transverts.c
+  ed_util.c
+  ed_util_imbuf.c
+  gizmo_utils.c
+  numinput.c
+  select_utils.c
+  transform_mode_edge_rotate_normal.c
+  transform_mode_edge_seq_slide.c
+  transform_mode_edge_slide.c
+  transform_mode_gpopacity.c
+  transform_mode_gpshrinkfatten.c
+  transform_mode_maskshrinkfatten.c
+  transform_mode_mirror.c
+  transform_mode_push_pull.c
+  transform_mode_resize.c
+  transform_mode_rotate.c
+  transform_mode_shear.c
+  transform_mode_shrink_fatten.c
+  transform_mode_skin_resize.c
+  transform_mode_tilt.c
+  transform_mode_timescale.c
+  transform_mode_timeslide.c
+  transform_mode_timetranslate.c
+  transform_mode_tosphere.c
+  transform_mode_trackball.c
+  transform_mode_translate.c
+  transform_mode_vert_slide.c
+  transform_ops.c
+  transform_orientations.c
+  transform_snap.c
+  transform_snap_object.c
+  bf_editor_undo.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_undo.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/uvedit/CMakeLists.txt
+  uvedit_buttons.c
+  uvedit_draw.c
+  uvedit_ops.c
+  uvedit_parametrizer.c
+  uvedit_smart_stitch.c
+  uvedit_unwrap_ops.c
+  bf_editor_util.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_util.lib
+  bf_editor_transform.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_transform.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/freestyle/CMakeLists.txt
+  FRS_precomp.cpp
+  bf_editor_uvedit.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_uvedit.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/gpencil_modifiers/CMakeLists.txt
+  MOD_gpencil_util.c
+  MOD_gpencilarmature.c
+  MOD_gpencilarray.c
+  MOD_gpencilbuild.c
+  MOD_gpencilcolor.c
+  MOD_gpencilhook.c
+  MOD_gpencillattice.c
+  MOD_gpencilmirror.c
+  MOD_gpencilmultiply.c
+  MOD_gpencilnoise.c
+  MOD_gpenciloffset.c
+  MOD_gpencilopacity.c
+  Building Custom Rule D:/blender/src/blender/source/blender/ikplugin/CMakeLists.txt
+  MOD_gpencilsimplify.c
+  MOD_gpencilsmooth.c
+  MOD_gpencilsubdiv.c
+  MOD_gpencilthick.c
+  MOD_gpenciltime.c
+  MOD_gpenciltint.c
+  ikplugin_api.c
+  iksolver_plugin.c
+  bf_gpencil_modifiers.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_gpencil_modifiers.lib
+  itasc_plugin.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/imbuf/CMakeLists.txt
+  allocimbuf.c
+  anim_movie.c
+  bmp.c
+  cache.c
+  colormanagement.c
+  divers.c
+  filetype.c
+  filter.c
+  imageprocess.c
+  indexer.c
+  iris.c
+  jpeg.c
+  metadata.c
+  module.c
+  moviecache.c
+  png.c
+  readimage.c
+  rectop.c
+  rotate.c
+  scaling.c
+  stereoimbuf.c
+  targa.c
+  thumbs.c
+  thumbs_blend.c
+  thumbs_font.c
+  util.c
+  writeimage.c
+  tiff.c
+  jp2.c
+  radiance_hdr.c
+  bf_imbuf.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_imbuf.lib
+  AppCanvas.cpp
+  AppConfig.cpp
+  AppView.cpp
+  Controller.cpp
+  BlenderFileLoader.cpp
+  BlenderStrokeRenderer.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/imbuf/intern/cineon/CMakeLists.txt
+  FRS_freestyle.cpp
+  cineon_dpx.c
+  cineonlib.c
+  dpxlib.c
+  logImageCore.c
+  logmemfile.c
+  Bezier.cpp
+  FastGrid.cpp
+  FitCurve.cpp
+  GeomCleaner.cpp
+  GeomUtils.cpp
+  Grid.cpp
+  GridHelpers.cpp
+  HashGrid.cpp
+  Noise.cpp
+  matrix_util.cpp
+  normal_cycle.cpp
+  GaussianFilter.cpp
+  ImagePyramid.cpp
+  BPy_BBox.cpp
+  BPy_BinaryPredicate0D.cpp
+  BPy_BinaryPredicate1D.cpp
+  BPy_ContextFunctions.cpp
+  BPy_Convert.cpp
+  BPy_Freestyle.cpp
+  bf_imbuf_cineon.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_imbuf_cineon.lib
+  BPy_FrsMaterial.cpp
+  BPy_FrsNoise.cpp
+  BPy_Id.cpp
+  BPy_IntegrationType.cpp
+  BPy_Interface0D.cpp
+  BPy_Interface1D.cpp
+  BPy_Iterator.cpp
+  BPy_MediumType.cpp
+  BPy_Nature.cpp
+  BPy_Operators.cpp
+  BPy_SShape.cpp
+  BPy_StrokeAttribute.cpp
+  BPy_StrokeShader.cpp
+  BPy_UnaryFunction0D.cpp
+  BPy_UnaryFunction1D.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/imbuf/intern/dds/CMakeLists.txt
+  BPy_UnaryPredicate0D.cpp
+  BPy_UnaryPredicate1D.cpp
+  BPy_ViewMap.cpp
+  BPy_ViewShape.cpp
+  BPy_FalseBP1D.cpp
+  BPy_Length2DBP1D.cpp
+  BPy_SameShapeIdBP1D.cpp
+  BlockDXT.cpp
+  ColorBlock.cpp
+  DirectDrawSurface.cpp
+  FlipDXT.cpp
+  Image.cpp
+  Stream.cpp
+  BPy_TrueBP1D.cpp
+  dds_api.cpp
+  BPy_ViewMapGradientNormBP1D.cpp
+  Director.cpp
+  BPy_CurvePoint.cpp
+  BPy_SVertex.cpp
+  BPy_ViewVertex.cpp
+  BPy_StrokeVertex.cpp
+  BPy_NonTVertex.cpp
+  BPy_TVertex.cpp
+  BPy_FEdge.cpp
+  BPy_FrsCurve.cpp
+  BPy_Stroke.cpp
+  BPy_ViewEdge.cpp
+  BPy_Chain.cpp
+  BPy_FEdgeSharp.cpp
+  BPy_FEdgeSmooth.cpp
+  BPy_AdjacencyIterator.cpp
+  BPy_ChainPredicateIterator.cpp
+  BPy_ChainSilhouetteIterator.cpp
+  BPy_ChainingIterator.cpp
+  BPy_CurvePointIterator.cpp
+  BPy_Interface0DIterator.cpp
+  BPy_SVertexIterator.cpp
+  BPy_StrokeVertexIterator.cpp
+  BPy_ViewEdgeIterator.cpp
+  BPy_orientedViewEdgeIterator.cpp
+  BPy_BackboneStretcherShader.cpp
+  BPy_BezierCurveShader.cpp
+  BPy_BlenderTextureShader.cpp
+  BPy_CalligraphicShader.cpp
+  BPy_ColorNoiseShader.cpp
+  BPy_ConstantColorShader.cpp
+  BPy_ConstantThicknessShader.cpp
+  BPy_ConstrainedIncreasingThicknessShader.cpp
+  BPy_GuidingLinesShader.cpp
+  BPy_IncreasingColorShader.cpp
+  BPy_IncreasingThicknessShader.cpp
+  BPy_PolygonalizationShader.cpp
+  BPy_SamplingShader.cpp
+  BPy_SmoothingShader.cpp
+  BPy_SpatialNoiseShader.cpp
+  BPy_StrokeTextureStepShader.cpp
+  BPy_ThicknessNoiseShader.cpp
+  BPy_TipRemoverShader.cpp
+  BPy_UnaryFunction0DDouble.cpp
+  BPy_UnaryFunction0DEdgeNature.cpp
+  BPy_UnaryFunction0DFloat.cpp
+  BPy_UnaryFunction0DId.cpp
+  BPy_UnaryFunction0DMaterial.cpp
+  BPy_UnaryFunction0DUnsigned.cpp
+  BPy_UnaryFunction0DVec2f.cpp
+  BPy_UnaryFunction0DVec3f.cpp
+  BPy_UnaryFunction0DVectorViewShape.cpp
+  BPy_UnaryFunction0DViewShape.cpp
+  bf_imbuf_dds.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_imbuf_dds.lib
+  BPy_ShapeIdF0D.cpp
+  BPy_MaterialF0D.cpp
+  BPy_CurveNatureF0D.cpp
+  BPy_Normal2DF0D.cpp
+  BPy_VertexOrientation2DF0D.cpp
+  BPy_VertexOrientation3DF0D.cpp
+  BPy_GetOccludeeF0D.cpp
+  BPy_GetShapeF0D.cpp
+  BPy_Curvature2DAngleF0D.cpp
+  BPy_DensityF0D.cpp
+  BPy_GetProjectedXF0D.cpp
+  BPy_GetProjectedYF0D.cpp
+  BPy_GetProjectedZF0D.cpp
+  BPy_GetXF0D.cpp
+  BPy_GetYF0D.cpp
+  BPy_GetZF0D.cpp
+  BPy_LocalAverageDepthF0D.cpp
+  BPy_ZDiscontinuityF0D.cpp
+  BPy_GetCurvilinearAbscissaF0D.cpp
+  BPy_GetParameterF0D.cpp
+  BPy_GetViewMapGradientNormF0D.cpp
+  BPy_ReadCompleteViewMapPixelF0D.cpp
+  BPy_ReadMapPixelF0D.cpp
+  BPy_ReadSteerableViewMapPixelF0D.cpp
+  BPy_QuantitativeInvisibilityF0D.cpp
+  BPy_GetOccludersF0D.cpp
+  BPy_UnaryFunction1DDouble.cpp
+  BPy_UnaryFunction1DEdgeNature.cpp
+  BPy_UnaryFunction1DFloat.cpp
+  BPy_UnaryFunction1DUnsigned.cpp
+  BPy_UnaryFunction1DVec2f.cpp
+  BPy_UnaryFunction1DVec3f.cpp
+  BPy_UnaryFunction1DVectorViewShape.cpp
+  BPy_UnaryFunction1DVoid.cpp
+  BPy_CurveNatureF1D.cpp
+  BPy_Normal2DF1D.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/imbuf/intern/openexr/CMakeLists.txt
+  BPy_Orientation2DF1D.cpp
+  BPy_Orientation3DF1D.cpp
+  BPy_Curvature2DAngleF1D.cpp
+  BPy_DensityF1D.cpp
+  BPy_GetCompleteViewMapDensityF1D.cpp
+  BPy_GetDirectionalViewMapDensityF1D.cpp
+  BPy_GetProjectedXF1D.cpp
+  BPy_GetProjectedYF1D.cpp
+  BPy_GetProjectedZF1D.cpp
+  BPy_GetSteerableViewMapDensityF1D.cpp
+  BPy_GetViewMapGradientNormF1D.cpp
+  BPy_GetXF1D.cpp
+  BPy_GetYF1D.cpp
+  BPy_GetZF1D.cpp
+  BPy_LocalAverageDepthF1D.cpp
+  bf_ikplugin.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_ikplugin.lib
+  BPy_ZDiscontinuityF1D.cpp
+  BPy_QuantitativeInvisibilityF1D.cpp
+  BPy_GetOccludeeF1D.cpp
+  BPy_GetOccludersF1D.cpp
+  BPy_GetShapeF1D.cpp
+  BPy_ChainingTimeStampF1D.cpp
+  BPy_IncrementChainingTimeStampF1D.cpp
+  BPy_TimeStampF1D.cpp
+  openexr_api.cpp
+  BPy_FalseUP0D.cpp
+  BPy_TrueUP0D.cpp
+  BPy_ContourUP1D.cpp
+  BPy_DensityLowerThanUP1D.cpp
+  BPy_EqualToChainingTimeStampUP1D.cpp
+  BPy_EqualToTimeStampUP1D.cpp
+  BPy_ExternalContourUP1D.cpp
+  BPy_FalseUP1D.cpp
+  BPy_QuantitativeInvisibilityUP1D.cpp
+  BPy_ShapeUP1D.cpp
+  BPy_TrueUP1D.cpp
+  BPy_WithinImageBoundaryUP1D.cpp
+  IndexedFaceSet.cpp
+  LineRep.cpp
+  NodeCamera.cpp
+  NodeDrawingStyle.cpp
+  NodeGroup.cpp
+  NodeLight.cpp
+  NodeShape.cpp
+  NodeTransform.cpp
+  NodeViewLayer.cpp
+  OrientedLineRep.cpp
+  Rep.cpp
+  SceneHash.cpp
+  ScenePrettyPrinter.cpp
+  SceneVisitor.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/imbuf/intern/oiio/CMakeLists.txt
+  TriangleRep.cpp
+  VertexRep.cpp
+  AdvancedFunctions0D.cpp
+  AdvancedFunctions1D.cpp
+  AdvancedStrokeShaders.cpp
+  BasicStrokeShaders.cpp
+  Canvas.cpp
+  Chain.cpp
+  ChainingIterators.cpp
+  ContextFunctions.cpp
+  Curve.cpp
+  Operators.cpp
+  PSStrokeRenderer.cpp
+  Predicates0D.cpp
+  Predicates1D.cpp
+  Stroke.cpp
+  StrokeIO.cpp
+  StrokeLayer.cpp
+  StrokeRenderer.cpp
+  StrokeRep.cpp
+  StrokeShader.cpp
+  StrokeTesselator.cpp
+  TextStrokeRenderer.cpp
+  BaseObject.cpp
+  Exception.cpp
+  Iterator.cpp
+  PseudoNoise.cpp
+  openimageio_api.cpp
+  PythonInterpreter.cpp
+  RandGen.cpp
+  StringUtils.cpp
+  TimeStamp.cpp
+  ArbitraryGridDensityProvider.cpp
+  AverageAreaGridDensityProvider.cpp
+  BoxGrid.cpp
+  CulledOccluderSource.cpp
+  FEdgeXDetector.cpp
+  Functions0D.cpp
+  Functions1D.cpp
+  HeuristicGridDensityProviderFactory.cpp
+  Interface0D.cpp
+  Interface1D.cpp
+  OccluderSource.cpp
+  Pow23GridDensityProvider.cpp
+  Silhouette.cpp
+  SilhouetteGeomEngine.cpp
+  SphericalGrid.cpp
+  SteerableViewMap.cpp
+  ViewEdgeXBuilder.cpp
+  ViewMap.cpp
+  ViewMapBuilder.cpp
+  ViewMapIO.cpp
+  ViewMapTesselator.cpp
+  Curvature.cpp
+  bf_imbuf_openexr.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_imbuf_openexr.lib
+  WEdge.cpp
+  WFillGrid.cpp
+  WSFillGrid.cpp
+  WXEdge.cpp
+  WXEdgeBuilder.cpp
+  WingedEdgeBuilder.cpp
+  bf_imbuf_openimageio.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_imbuf_openimageio.lib
+  Building Custom Rule D:/blender/src/blender/intern/audaspace/CMakeLists.txt
+  AUD_Set.cpp
+  AUD_PyInit.cpp
+  Building Custom Rule D:/blender/src/blender/intern/clog/CMakeLists.txt
+  clog.c
+  bf_freestyle.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_freestyle.lib
+  Building Custom Rule D:/blender/src/blender/intern/dualcon/CMakeLists.txt
+  manifold_table.cpp
+  marching_cubes_table.cpp
+  octree.cpp
+  Projections.cpp
+  dualcon_c_api.cpp
+  bf_intern_clog.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_clog.lib
+  bf_intern_audaspace.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_audaspace.lib
+  Building Custom Rule D:/blender/src/blender/intern/eigen/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/intern/ghost/CMakeLists.txt
+  eigenvalues.cc
+  linear_solver.cc
+  matrix.cc
+  svd.cc
+  GHOST_Buttons.cpp
+  GHOST_C-api.cpp
+  GHOST_CallbackEventConsumer.cpp
+  GHOST_Context.cpp
+  GHOST_ContextNone.cpp
+  GHOST_DisplayManager.cpp
+  GHOST_EventManager.cpp
+  GHOST_ISystem.cpp
+  GHOST_ISystemPaths.cpp
+  GHOST_ModifierKeys.cpp
+  GHOST_Path-api.cpp
+  GHOST_Rect.cpp
+  GHOST_System.cpp
+  GHOST_TimerManager.cpp
+  GHOST_Window.cpp
+  GHOST_WindowManager.cpp
+  GHOST_NDOFManager.cpp
+  GHOST_ContextD3D.cpp
+  GHOST_DisplayManagerWin32.cpp
+  GHOST_DropTargetWin32.cpp
+  GHOST_SystemWin32.cpp
+  GHOST_WindowWin32.cpp
+  GHOST_ContextWGL.cpp
+  GHOST_ImeWin32.cpp
+  GHOST_NDOFManagerWin32.cpp
+  GHOST_SystemPathsWin32.cpp
+  GHOST_Xr.cpp
+  GHOST_XrEvent.cpp
+  GHOST_XrContext.cpp
+  GHOST_XrGraphicsBinding.cpp
+  GHOST_XrSession.cpp
+  GHOST_XrSwapchain.cpp
+  bf_intern_dualcon.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_dualcon.lib
+  bf_intern_ghost.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_ghost.lib
+  Building Custom Rule D:/blender/src/blender/intern/glew-mx/CMakeLists.txt
+  glew-mx.c
+  Building Custom Rule D:/blender/src/blender/intern/guardedalloc/CMakeLists.txt
+  mallocn.c
+  mallocn_guarded_impl.c
+  mallocn_lockfree_impl.c
+  mmap_win.c
+  bf_intern_glew_mx.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_glew_mx.lib
+  Building Custom Rule D:/blender/src/blender/intern/iksolver/CMakeLists.txt
+  IK_QJacobian.cpp
+  IK_QJacobianSolver.cpp
+  IK_QSegment.cpp
+  IK_QTask.cpp
+  IK_Solver.cpp
+  Building Custom Rule D:/blender/src/blender/intern/itasc/CMakeLists.txt
+  Armature.cpp
+  Cache.cpp
+  ConstraintSet.cpp
+  ControlledObject.cpp
+  CopyPose.cpp
+  Distance.cpp
+  FixedObject.cpp
+  MovingFrame.cpp
+  Scene.cpp
+  UncontrolledObject.cpp
+  WDLSSolver.cpp
+  bf_intern_eigen.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_eigen.lib
+  WSDLSSolver.cpp
+  WorldObject.cpp
+  eigen_types.cpp
+  chain.cpp
+  bf_intern_guardedalloc.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_guardedalloc.lib
+  chainfksolverpos_recursive.cpp
+  chainjnttojacsolver.cpp
+  frameacc.cpp
+  frames.cpp
+  frames_io.cpp
+  framevel.cpp
+  inertia.cpp
+  jacobian.cpp
+  jntarray.cpp
+  jntarrayacc.cpp
+  jntarrayvel.cpp
+  Building Custom Rule D:/blender/src/blender/intern/libmv/CMakeLists.txt
+  joint.cpp
+  kinfam_io.cpp
+  segment.cpp
+  tree.cpp
+  treefksolverpos_recursive.cpp
+  treejnttojacsolver.cpp
+  error_stack.cpp
+  utility.cpp
+  utility_io.cpp
+  autotrack.cc
+  Building Custom Rule D:/blender/src/blender/intern/locale/CMakeLists.txt
+  boost_locale_wrapper.cpp
+  bf_intern_iksolver.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_iksolver.lib
+  camera_intrinsics.cc
+  bf_intern_locale.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_locale.lib
+  Building Custom Rule D:/blender/src/blender/intern/mantaflow/CMakeLists.txt
+  manta_python_API.cpp
+  manta_fluid_API.cpp
+  MANTA_main.cpp
+  detector.cc
+  frame_accessor.cc
+  image.cc
+  logging.cc
+  tracksN.cc
+  predict_tracks.cc
+  aligned_malloc.cc
+  array_nd.cc
+  convolve.cc
+  conditioning.cc
+  euclidean_resection.cc
+  fundamental.cc
+  panography.cc
+  bf_intern_itasc.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_itasc.lib
+  panography_kernel.cc
+  Building Custom Rule D:/blender/src/blender/intern/memutil/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/intern/mikktspace/CMakeLists.txt
+  MEM_CacheLimiterC-Api.cpp
+  MEM_RefCountedC-Api.cpp
+  projection.cc
+  triangulation.cc
+  mikktspace.c
+  numeric.cc
+  bf_intern_mantaflow.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_mantaflow.lib
+  bf_intern_mikktspace.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_mikktspace.lib
+  bf_intern_memutil.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_memutil.lib
+  Building Custom Rule D:/blender/src/blender/intern/numaapi/CMakeLists.txt
+  poly.cc
+  bundle.cc
+  detect.cc
+  Building Custom Rule D:/blender/src/blender/intern/openvdb/CMakeLists.txt
+  numaapi.c
+  numaapi_linux.c
+  numaapi_stub.c
+  numaapi_win32.c
+  distortion_models.cc
+  initialize_reconstruction.cc
+  openvdb_dense_convert.cc
+  openvdb_reader.cc
+  openvdb_writer.cc
+  openvdb_level_set.cc
+  openvdb_transform.cc
+  openvdb_capi.cc
+  bf_intern_numaapi.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_numaapi.lib
+  intersect.cc
+  Building Custom Rule D:/blender/src/blender/intern/quadriflow/CMakeLists.txt
+  openvdb_util.cc
+  keyframe_selection.cc
+  modal_solver.cc
+  quadriflow_capi.cpp
+  pipeline.cc
+  reconstruction_scale.cc
+  resect.cc
+  brute_region_tracker.cc
+  hybrid_region_tracker.cc
+  klt_region_tracker.cc
+  pyramid_region_tracker.cc
+  retrack_region_tracker.cc
+  trklt_region_tracker.cc
+  bf_intern_quadriflow.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_quadriflow.lib
+  Building Custom Rule D:/blender/src/blender/intern/rigidbody/CMakeLists.txt
+  rb_bullet_api.cpp
+  bf_intern_rigidbody.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_rigidbody.lib
+  Building Custom Rule D:/blender/src/blender/intern/string/CMakeLists.txt
+  STR_String.cpp
+  bf_intern_string.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_string.lib
+  Building Custom Rule D:/blender/src/blender/intern/utfconv/CMakeLists.txt
+  utfconv.c
+  utf_winfunc.c
+  bf_intern_openvdb.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_openvdb.lib
+  bf_intern_utfconv.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_utfconv.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/modifiers/CMakeLists.txt
+  MOD_armature.c
+  MOD_array.c
+  MOD_bevel.c
+  MOD_boolean.c
+  MOD_build.c
+  MOD_cast.c
+  MOD_cloth.c
+  MOD_collision.c
+  MOD_correctivesmooth.c
+  MOD_curve.c
+  MOD_datatransfer.c
+  MOD_decimate.c
+  MOD_displace.c
+  MOD_dynamicpaint.c
+  MOD_edgesplit.c
+  MOD_explode.c
+  MOD_fluid.c
+  MOD_hook.c
+  Building Custom Rule D:/blender/src/blender/source/blender/nodes/CMakeLists.txt
+  MOD_laplaciandeform.c
+  MOD_laplaciansmooth.c
+  MOD_lattice.c
+  MOD_meshcache.c
+  MOD_meshcache_mdd.c
+  MOD_meshcache_pc2.c
+  MOD_meshcache_util.c
+  MOD_meshdeform.c
+  MOD_meshsequencecache.c
+  MOD_mirror.c
+  MOD_multires.c
+  MOD_none.c
+  MOD_normal_edit.c
+  MOD_ocean.c
+  MOD_particleinstance.c
+  MOD_particlesystem.c
+  MOD_remesh.c
+  MOD_screw.c
+  MOD_shapekey.c
+  MOD_shrinkwrap.c
+  MOD_simpledeform.c
+  MOD_skin.c
+  MOD_smooth.c
+  MOD_softbody.c
+  MOD_solidify.c
+  MOD_solidify_extrude.c
+  MOD_solidify_nonmanifold.c
+  MOD_subsurf.c
+  MOD_surface.c
+  MOD_surfacedeform.c
+  MOD_triangulate.c
+  MOD_util.c
+  MOD_uvproject.c
+  MOD_uvwarp.c
+  MOD_warp.c
+  MOD_wave.c
+  MOD_weighted_normal.c
+  MOD_weightvg_util.c
+  MOD_weightvgedit.c
+  MOD_weightvgmix.c
+  MOD_weightvgproximity.c
+  MOD_weld.c
+  MOD_wireframe.c
+  node_composite_alphaOver.c
+  node_composite_bilateralblur.c
+  node_composite_blur.c
+  node_composite_bokehblur.c
+  node_composite_bokehimage.c
+  node_composite_boxmask.c
+  node_composite_brightness.c
+  node_composite_channelMatte.c
+  node_composite_chromaMatte.c
+  node_composite_colorMatte.c
+  node_composite_colorSpill.c
+  node_composite_colorbalance.c
+  node_composite_colorcorrection.c
+  node_composite_common.c
+  node_composite_composite.c
+  node_composite_cornerpin.c
+  node_composite_crop.c
+  node_composite_cryptomatte.c
+  node_composite_curves.c
+  node_composite_defocus.c
+  node_composite_denoise.c
+  node_composite_despeckle.c
+  node_composite_diffMatte.c
+  node_composite_dilate.c
+  node_composite_directionalblur.c
+  node_composite_displace.c
+  node_composite_distanceMatte.c
+  node_composite_doubleEdgeMask.c
+  node_composite_ellipsemask.c
+  node_composite_filter.c
+  node_composite_flip.c
+  node_composite_gamma.c
+  node_composite_glare.c
+  node_composite_hueSatVal.c
+  node_composite_huecorrect.c
+  node_composite_idMask.c
+  node_composite_image.c
+  node_composite_inpaint.c
+  node_composite_invert.c
+  node_composite_keying.c
+  node_composite_keyingscreen.c
+  node_composite_lensdist.c
+  node_composite_levels.c
+  node_composite_lummaMatte.c
+  node_composite_mapRange.c
+  node_composite_mapUV.c
+  node_composite_mapValue.c
+  node_composite_mask.c
+  node_composite_math.c
+  node_composite_mixrgb.c
+  node_composite_movieclip.c
+  node_composite_moviedistortion.c
+  node_composite_normal.c
+  node_composite_normalize.c
+  node_composite_outputFile.c
+  MOD_mask.cc
+  node_composite_pixelate.c
+  node_composite_planetrackdeform.c
+  node_composite_premulkey.c
+  node_composite_rgb.c
+  node_composite_rotate.c
+  node_composite_scale.c
+  node_composite_sepcombHSVA.c
+  node_composite_sepcombRGBA.c
+  node_composite_sepcombYCCA.c
+  node_composite_sepcombYUVA.c
+  node_composite_setalpha.c
+  node_composite_splitViewer.c
+  node_composite_stabilize2d.c
+  node_composite_sunbeams.c
+  node_composite_switch.c
+  node_composite_switchview.c
+  node_composite_texture.c
+  node_composite_tonemap.c
+  node_composite_trackpos.c
+  node_composite_transform.c
+  node_composite_translate.c
+  node_composite_valToRgb.c
+  node_composite_value.c
+  node_composite_vecBlur.c
+  node_composite_viewer.c
+  node_composite_zcombine.c
+  node_composite_tree.c
+  node_composite_util.c
+  node_shader_add_shader.c
+  node_shader_ambient_occlusion.c
+  node_shader_attribute.c
+  node_shader_background.c
+  node_shader_bevel.c
+  node_shader_blackbody.c
+  node_shader_brightness.c
+  node_shader_bsdf_anisotropic.c
+  node_shader_bsdf_diffuse.c
+  node_shader_bsdf_glass.c
+  node_shader_bsdf_glossy.c
+  node_shader_bsdf_hair.c
+  node_shader_bsdf_hair_principled.c
+  node_shader_bsdf_principled.c
+  node_shader_bsdf_refraction.c
+  node_shader_bsdf_toon.c
+  node_shader_bsdf_translucent.c
+  node_shader_bsdf_transparent.c
+  node_shader_bsdf_velvet.c
+  node_shader_bump.c
+  node_shader_camera.c
+  node_shader_clamp.c
+  node_shader_common.c
+  node_shader_curves.c
+  node_shader_displacement.c
+  node_shader_eevee_specular.c
+  node_shader_emission.c
+  node_shader_fresnel.c
+  bf_modifiers.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_modifiers.lib
+  node_shader_gamma.c
+  node_shader_geometry.c
+  node_shader_hair_info.c
+  node_shader_holdout.c
+  node_shader_hueSatVal.c
+  node_shader_ies_light.c
+  node_shader_invert.c
+  node_shader_layer_weight.c
+  node_shader_light_falloff.c
+  node_shader_light_path.c
+  node_shader_map_range.c
+  node_shader_mapping.c
+  node_shader_math.c
+  node_shader_mixRgb.c
+  node_shader_mix_shader.c
+  node_shader_normal.c
+  node_shader_normal_map.c
+  node_shader_object_info.c
+  node_shader_output_aov.c
+  Building Custom Rule D:/blender/src/blender/source/blender/physics/CMakeLists.txt
+  node_shader_output_light.c
+  node_shader_output_linestyle.c
+  node_shader_output_material.c
+  node_shader_output_world.c
+  node_shader_particle_info.c
+  node_shader_rgb.c
+  node_shader_script.c
+  node_shader_sepcombHSV.c
+  node_shader_sepcombRGB.c
+  node_shader_sepcombXYZ.c
+  node_shader_shaderToRgb.c
+  node_shader_squeeze.c
+  node_shader_subsurface_scattering.c
+  node_shader_tangent.c
+  node_shader_tex_brick.c
+  node_shader_tex_checker.c
+  node_shader_tex_coord.c
+  node_shader_tex_environment.c
+  node_shader_tex_gradient.c
+  node_shader_tex_image.c
+  node_shader_tex_magic.c
+  node_shader_tex_musgrave.c
+  node_shader_tex_noise.c
+  node_shader_tex_pointdensity.c
+  node_shader_tex_sky.c
+  node_shader_tex_voronoi.c
+  node_shader_tex_wave.c
+  node_shader_tex_white_noise.c
+  node_shader_uvAlongStroke.c
+  node_shader_uvmap.c
+  node_shader_valToRgb.c
+  node_shader_value.c
+  node_shader_vectTransform.c
+  BPH_mass_spring.cpp
+  node_shader_vector_displacement.c
+  hair_volume.cpp
+  implicit_eigen.cpp
+  node_shader_vector_math.c
+  node_shader_vector_rotate.c
+  node_shader_vertex_color.c
+  node_shader_volume_absorption.c
+  node_shader_volume_info.c
+  node_shader_volume_principled.c
+  node_shader_volume_scatter.c
+  node_shader_wavelength.c
+  node_shader_wireframe.c
+  node_shader_tree.c
+  node_shader_util.c
+  node_texture_at.c
+  node_texture_bricks.c
+  node_texture_checker.c
+  node_texture_common.c
+  node_texture_compose.c
+  node_texture_coord.c
+  node_texture_curves.c
+  node_texture_decompose.c
+  node_texture_distance.c
+  node_texture_hueSatVal.c
+  node_texture_image.c
+  node_texture_invert.c
+  node_texture_math.c
+  node_texture_mixRgb.c
+  node_texture_output.c
+  node_texture_proc.c
+  node_texture_rotate.c
+  node_texture_scale.c
+  node_texture_texture.c
+  node_texture_translate.c
+  node_texture_valToNor.c
+  node_texture_valToRgb.c
+  node_texture_viewer.c
+  node_texture_tree.c
+  node_texture_util.c
+  node_common.c
+  node_exec.c
+  node_socket.c
+  node_util.c
+  bf_nodes.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_nodes.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/python/intern/CMakeLists.txt
+  bpy.c
+  bpy_app.c
+  implicit_blender.c
+  bpy_app_alembic.c
+  bpy_app_build_options.c
+  bpy_app_ffmpeg.c
+  bpy_app_handlers.c
+  bpy_app_icons.c
+  bpy_app_ocio.c
+  bpy_app_oiio.c
+  bpy_app_opensubdiv.c
+  bpy_app_openvdb.c
+  bpy_app_sdl.c
+  bpy_app_timers.c
+  bpy_app_translations.c
+  bpy_app_usd.c
+  bpy_capi_utils.c
+  bpy_driver.c
+  bpy_gizmo_wrap.c
+  bpy_interface.c
+  bpy_interface_atexit.c
+  bpy_intern_string.c
+  bpy_library_load.c
+  bpy_library_write.c
+  bpy_msgbus.c
+  bpy_operator.c
+  bpy_operator_wrap.c
+  bpy_path.c
+  bpy_props.c
+  bpy_rna.c
+  bpy_rna_anim.c
+  bpy_rna_array.c
+  bpy_rna_callback.c
+  bpy_rna_driver.c
+  bpy_rna_gizmo.c
+  bpy_rna_id_collection.c
+  bpy_rna_types_capi.c
+  bpy_traceback.c
+  bpy_utils_previews.c
+  bpy_utils_units.c
+  stubs.c
+  bf_physics.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_physics.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/python/bmesh/CMakeLists.txt
+  bf_python.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_python.lib
+  bmesh_py_api.c
+  bmesh_py_geometry.c
+  bmesh_py_ops.c
+  bmesh_py_ops_call.c
+  bmesh_py_types.c
+  bmesh_py_types_customdata.c
+  bmesh_py_types_meshdata.c
+  bmesh_py_types_select.c
+  bmesh_py_utils.c
+  Building Custom Rule D:/blender/src/blender/source/blender/python/generic/CMakeLists.txt
+  bgl.c
+  blf_py_api.c
+  bpy_threads.c
+  idprop_py_api.c
+  imbuf_py_api.c
+  py_capi_utils.c
+  bf_python_bmesh.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_python_bmesh.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/python/gpu/CMakeLists.txt
+  gpu_py_api.c
+  gpu_py_batch.c
+  gpu_py_element.c
+  gpu_py_matrix.c
+  gpu_py_offscreen.c
+  gpu_py_select.c
+  gpu_py_shader.c
+  gpu_py_types.c
+  gpu_py_vertex_buffer.c
+  gpu_py_vertex_format.c
+  bf_python_gpu.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_python_gpu.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/python/mathutils/CMakeLists.txt
+  mathutils.c
+  mathutils_Color.c
+  mathutils_Euler.c
+  mathutils_Matrix.c
+  mathutils_Quaternion.c
+  mathutils_Vector.c
+  homography.cc
+  mathutils_bvhtree.c
+  mathutils_geometry.c
+  mathutils_interpolate.c
+  mathutils_kdtree.c
+  mathutils_noise.c
+  bf_python_mathutils.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_python_mathutils.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/render/CMakeLists.txt
+  bf_python_ext.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_python_ext.lib
+  bake_api.c
+  external_engine.c
+  imagetexture.c
+  initrender.c
+  multires_bake.c
+  pipeline.c
+  pointdensity.c
+  render_result.c
+  render_texture.c
+  zbuf.c
+  Building Custom Rule D:/blender/src/blender/source/blender/shader_fx/CMakeLists.txt
+  FX_shader_blur.c
+  FX_shader_colorize.c
+  FX_shader_flip.c
+  FX_shader_glow.c
+  FX_shader_pixel.c
+  FX_shader_rim.c
+  reconstruction.cc
+  FX_shader_shadow.c
+  FX_shader_swirl.c
+  FX_shader_util.c
+  FX_shader_wave.c
+  Building Custom Rule D:/blender/src/blender/source/blender/io/usd/CMakeLists.txt
+  abstract_hierarchy_iterator.cc
+  usd_capi.cc
+  usd_hierarchy_iterator.cc
+  usd_writer_abstract.cc
+  usd_writer_camera.cc
+  usd_writer_hair.cc
+  bf_render.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_render.lib
+  usd_writer_light.cc
+  track_region.cc
+  bf_shader_fx.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_shader_fx.lib
+  Building Custom Rule D:/blender/src/blender/source/blender/windowmanager/CMakeLists.txt
+  Generating buildinfo.h_fake, buildinfo.h
+  wm.c
+  usd_writer_mesh.cc
+  wm_cursors.c
+  wm_dragdrop.c
+  wm_draw.c
+  wm_event_query.c
+  wm_event_system.c
+  wm_files.c
+  wm_files_link.c
+  wm_gesture.c
+  wm_gesture_ops.c
+  wm_init_exit.c
+  wm_jobs.c
+  usd_writer_metaball.cc
+  wm_keymap.c
+  wm_keymap_utils.c
+  wm_menu_type.c
+  wm_operator_props.c
+  wm_operator_type.c
+  wm_operator_utils.c
+  wm_operators.c
+  wm_panel_type.c
+  wm_platform_support.c
+  wm_playanim.c
+  wm_splash_screen.c
+  wm_stereo.c
+  usd_writer_transform.cc
+  wm_subwindow.c
+  wm_surface.c
+  wm_toolsystem.c
+  wm_tooltip.c
+  wm_uilist_type.c
+  wm_utils.c
+  wm_window.c
+  wm_gizmo.c
+  wm_gizmo_group.c
+  wm_gizmo_group_type.c
+  wm_gizmo_map.c
+  wm_gizmo_target_props.c
+  wm_gizmo_type.c
+  wm_message_bus.c
+  wm_message_bus_rna.c
+  wm_message_bus_static.c
+  wm_xr.c
+  wm_xr_draw.c
+  wm_xr_session.c
+  tracks.cc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): warning MSB8065: 项“D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\cd500e806ab7ec9c1ad2a237c93bc191\buildinfo.h_fake.rule”的自定义生成成功，但尚未创建指定的输出“d:\blender\src\build_windows_x64_vc16_release\source\creator\buildinfo.h_fake”。这可能会导致增量生成无法正常工作。 [D:\blender\src\build_windows_x64_vc16_Release\source\creator\buildinfo.vcxproj]
+  Building Custom Rule D:/blender/src/blender/source/creator/CMakeLists.txt
+D:\blender\src\blender\source\blender\io\usd\intern\usd_writer_mesh.cc(347,18): error C2039: "Bind": 不是 "usdBlender__pxrReserved__::UsdShadeMaterial" 的成员 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\io\usd\bf_usd.vcxproj]
+D:\blender\src\lib\win64_vc15\usd\include\pxr/usd/usdShade/material.h(111): message : 参见“usdBlender__pxrReserved__::UsdShadeMaterial”的声明 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\io\usd\bf_usd.vcxproj]
+D:\blender\src\blender\source\blender\io\usd\intern\usd_writer_mesh.cc(385,18): error C2039: "Bind": 不是 "usdBlender__pxrReserved__::UsdShadeMaterial" 的成员 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\io\usd\bf_usd.vcxproj]
+D:\blender\src\lib\win64_vc15\usd\include\pxr/usd/usdShade/material.h(111): message : 参见“usdBlender__pxrReserved__::UsdShadeMaterial”的声明 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\io\usd\bf_usd.vcxproj]
+  bf_windowmanager.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_windowmanager.lib
+  Generating filter_sm_30.cubin
+  Generating node_add_closure.oso
+  Generating node_ambient_occlusion.oso
+  Generating node_anisotropic_bsdf.oso
+  Generating node_attribute.oso
+  Generating node_background.oso
+  Generating node_bevel.oso
+  Generating node_brick_texture.oso
+  Generating node_brightness.oso
+  Generating node_bump.oso
+  Generating node_camera.oso
+  Generating node_checker_texture.oso
+  Generating node_clamp.oso
+  Generating node_combine_rgb.oso
+  Generating node_combine_hsv.oso
+  Generating node_combine_xyz.oso
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+  Generating node_convert_from_color.oso
+  Generating node_convert_from_float.oso
+  Generating node_convert_from_int.oso
+  Generating node_convert_from_normal.oso
+  Generating node_convert_from_point.oso
+  Generating node_convert_from_vector.oso
+  Generating node_diffuse_bsdf.oso
+  Generating node_displacement.oso
+  Generating node_vector_displacement.oso
+  Generating node_emission.oso
+  Generating node_environment_texture.oso
+  Generating node_fresnel.oso
+  Generating node_gamma.oso
+  Generating node_geometry.oso
+  Generating node_glass_bsdf.oso
+  Generating node_glossy_bsdf.oso
+  Generating node_gradient_texture.oso
+  Generating node_hair_info.oso
+  Generating node_scatter_volume.oso
+  Generating node_absorption_volume.oso
+  Generating node_principled_volume.oso
+  Generating node_holdout.oso
+  ptxas info    : 0 bytes gmem
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_finalize' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_finalize
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 63 registers, 388 bytes cmem[0], 20 bytes cmem[2]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_nlm_construct_gramian' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_nlm_construct_gramian
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 62 registers, 12288 bytes smem, 429 bytes cmem[0], 4 bytes cmem[2]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_nlm_normalize' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_nlm_normalize
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 7 registers, 348 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_nlm_update_output' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_nlm_update_output
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 28 registers, 380 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_nlm_calc_weight' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_nlm_calc_weight
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 28 registers, 360 bytes cmem[0], 24 bytes cmem[2]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_nlm_blur' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_nlm_blur
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 40 registers, 360 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_nlm_calc_difference' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_nlm_calc_difference
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 40 registers, 388 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_construct_transform' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_construct_transform
+      576 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 48 registers, 11264 bytes smem, 401 bytes cmem[0], 12 bytes cmem[2]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_combine_halves' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_combine_halves
+      104 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 48 registers, 372 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_detect_outliers' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_detect_outliers
+      104 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 25 registers, 372 bytes cmem[0], 4 bytes cmem[2]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_write_feature' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_write_feature
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 7 registers, 416 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_get_feature' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_get_feature
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 13 registers, 392 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_divide_shadow' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_divide_shadow
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 18 registers, 408 bytes cmem[0], 4 bytes cmem[2]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_convert_from_rgb' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_convert_from_rgb
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 9 registers, 384 bytes cmem[0]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_convert_to_rgb' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_convert_to_rgb
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 13 registers, 372 bytes cmem[0], 4 bytes cmem[2]
+  ptxas info    : Compiling entry function 'kernel_cuda_filter_copy_input' for 'sm_30'
+  ptxas info    : Function properties for kernel_cuda_filter_copy_input
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 20 registers, 356 bytes cmem[0]
+  filter.cu
+  Generating kernel_sm_30.cubin
+  Generating node_hsv.oso
+  Generating node_ies_light.oso
+  Generating node_image_texture.oso
+  Generating node_invert.oso
+  Generating node_layer_weight.oso
+  Generating node_light_falloff.oso
+  Generating node_light_path.oso
+  Generating node_magic_texture.oso
+  Generating node_map_range.oso
+  Generating node_mapping.oso
+  Generating node_math.oso
+  Generating node_mix.oso
+  Generating node_mix_closure.oso
+  Generating node_musgrave_texture.oso
+  Generating node_noise_texture.oso
+  Generating node_normal.oso
+  Generating node_normal_map.oso
+  Generating node_object_info.oso
+  Generating node_output_displacement.oso
+  Generating node_output_surface.oso
+  Generating node_output_volume.oso
+  Generating node_particle_info.oso
+  Generating node_refraction_bsdf.oso
+  Generating node_rgb_curves.oso
+  Generating node_rgb_ramp.oso
+  Generating node_separate_rgb.oso
+  Generating node_separate_hsv.oso
+  Generating node_separate_xyz.oso
+  Generating node_set_normal.oso
+  Generating node_sky_texture.oso
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+  Generating node_subsurface_scattering.oso
+  Generating node_tangent.oso
+  Generating node_texture_coordinate.oso
+D:/blender/src/blender/intern/cycles/kernel/..\kernel/geom/geom_object.h(225): error : identifier "transform_to_euler" is undefined [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+  
+D:/blender/src/blender/intern/cycles/kernel/..\kernel/geom/geom_object.h(240): error : identifier "transform_decompose_scale" is undefined [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+  
+  Generating node_toon_bsdf.oso
+  Generating node_translucent_bsdf.oso
+  Generating node_transparent_bsdf.oso
+  2 errors detected in the compilation of "C:/Users/fhjkj/AppData/Local/Temp/tmpxft_00002e60_00000000-10_kernel.cpp1.ii".
+  kernel.cu
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): error MSB8066: “D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_30.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_30.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_35.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_35.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_37.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_37.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_50.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_50.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_52.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_52.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_60.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_60.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_61.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_61.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_70.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_70.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_75.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_75.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\0b30338746e0d82caa066ea85ff714b6\cycles_kernel_cuda.rule”的自定义生成已退出，代码为 1。 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+  Generating node_value.oso
+  Generating node_vector_curves.oso
+  autotrack.cc
+  Generating node_vector_math.oso
+  Generating node_vector_rotate.oso
+  Building Custom Rule D:/blender/src/blender/source/creator/CMakeLists.txt
+  Generating node_vector_transform.oso
+  Generating node_velvet_bsdf.oso
+  Generating node_vertex_color.oso
+  Building Custom Rule D:/blender/src/blender/intern/cycles/subd/CMakeLists.txt
+  Generating node_voronoi_texture.oso
+  subd_dice.cpp
+  subd_patch.cpp
+  subd_split.cpp
+  subd_patch_table.cpp
+  Generating node_voxel_texture.oso
+  Generating node_wavelength.oso
+  Generating node_blackbody.oso
+  Generating node_wave_texture.oso
+  Generating node_white_noise_texture.oso
+  Generating node_wireframe.oso
+  Generating node_hair_bsdf.oso
+  Generating node_principled_hair_bsdf.oso
+  Generating node_uv_map.oso
+  Generating node_principled_bsdf.oso
+  tracks.cc
+  Generating node_rgb_to_bw.oso
+  Building Custom Rule D:/blender/src/blender/intern/cycles/kernel/shaders/CMakeLists.txt
+  buildinfo.c
+  buildinfoobj.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\source\creator\buildinfoobj.dir\Release\buildinfoobj.lib
+  Building Custom Rule D:/blender/src/blender/intern/cycles/util/CMakeLists.txt
+  util_aligned_malloc.cpp
+  util_debug.cpp
+  util_ies.cpp
+  util_logging.cpp
+  util_math_cdf.cpp
+  util_md5.cpp
+  util_murmurhash.cpp
+  util_path.cpp
+  util_profiling.cpp
+  util_string.cpp
+  util_simd.cpp
+  cycles_subd.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_subd.lib
+  util_system.cpp
+  util_task.cpp
+  util_thread.cpp
+  util_time.cpp
+  util_transform.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/datatoc/CMakeLists.txt
+  homography.cc
+  util_windows.cpp
+  util_guarded_allocator.cpp
+  util_sky_model.cpp
+  datatoc.c
+  Building Custom Rule D:/blender/src/blender/source/blender/datatoc/CMakeLists.txt
+  datatoc.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\bin\Release\datatoc.exe
+  datatoc_icon.c
+  winstuff_dir.c
+  utfconv.c
+  cycles_util.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_util.lib
+  Generating shader/gpu_shader_opensubdiv_vertex.glsl.c
+  Generating shader/gpu_shader_opensubdiv_geometry.glsl.c
+  Generating shader/gpu_shader_opensubdiv_fragment.glsl.c
+  Building Custom Rule D:/blender/src/blender/intern/opensubdiv/CMakeLists.txt
+  datatoc_icon.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\bin\Release\datatoc_icon.exe
+  opensubdiv.cc
+  opensubdiv_converter_factory.cc
+  opensubdiv_converter_internal.cc
+  opensubdiv_converter_orient.cc
+  opensubdiv_device_context_cuda.cc
+  opensubdiv_device_context_opencl.cc
+  opensubdiv_evaluator.cc
+  opensubdiv_evaluator_internal.cc
+  opensubdiv_gl_mesh.cc
+  opensubdiv_gl_mesh_draw.cc
+  opensubdiv_gl_mesh_fvar.cc
+  opensubdiv_gl_mesh_internal.cc
+  opensubdiv_topology_refiner.cc
+  Generating ../../../../release/datafiles/bfont.pfb.c
+  opensubdiv_topology_refiner_internal.cc
+  opensubdiv_util.cc
+  Generating gpu_shader_display_transform.glsl.c
+  Generating ../../../../release/datafiles/preview.blend.c
+  Generating gpu_shader_display_transform_vertex.glsl.c
+  Building Custom Rule D:/blender/src/blender/intern/opencolorio/CMakeLists.txt
+  ocio_capi.cc
+  fallback_impl.cc
+  ocio_impl.cc
+  ocio_impl_glsl.cc
+  gpu_shader_opensubdiv_vertex.glsl.c
+  gpu_shader_opensubdiv_geometry.glsl.c
+  gpu_shader_opensubdiv_fragment.glsl.c
+  Generating ../../../../release/datafiles/preview_grease_pencil.blend.c
+  bf_intern_opensubdiv.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_opensubdiv.lib
+  Generating ../../../../release/datafiles/splash.png.c
+  Generating shaders/gpu_shader_depth_only_frag.glsl.c
+  Generating shaders/gpu_shader_uniform_color_frag.glsl.c
+  Generating shaders/gpu_shader_checker_frag.glsl.c
+  Generating ../../../../release/datafiles/alert_icons.png.c
+  Generating shaders/gpu_shader_diag_stripes_frag.glsl.c
+  Generating ../../../../release/datafiles/blender_icons16.png, ../../../../release/datafiles/blender_icons16.png.c
+  Generating shaders/gpu_shader_simple_lighting_frag.glsl.c
+  Generating shaders/gpu_shader_flat_color_frag.glsl.c
+  Generating shaders/gpu_shader_flat_color_alpha_test_0_frag.glsl.c
+  Generating shaders/gpu_shader_flat_id_frag.glsl.c
+  Generating shaders/gpu_shader_2D_vert.glsl.c
+  Generating shaders/gpu_shader_2D_area_borders_vert.glsl.c
+  Generating shaders/gpu_shader_2D_area_borders_frag.glsl.c
+  Generating shaders/gpu_shader_2D_widget_base_vert.glsl.c
+  Generating shaders/gpu_shader_2D_widget_base_frag.glsl.c
+  Generating shaders/gpu_shader_2D_widget_shadow_vert.glsl.c
+  Generating shaders/gpu_shader_2D_widget_shadow_frag.glsl.c
+  Generating shaders/gpu_shader_2D_nodelink_frag.glsl.c
+  Generating shaders/gpu_shader_2D_nodelink_vert.glsl.c
+  Generating shaders/gpu_shader_2D_flat_color_vert.glsl.c
+  Generating shaders/gpu_shader_2D_line_dashed_uniform_color_vert.glsl.c
+  Generating shaders/gpu_shader_2D_line_dashed_frag.glsl.c
+  Generating shaders/gpu_shader_2D_smooth_color_vert.glsl.c
+  Generating shaders/gpu_shader_2D_smooth_color_frag.glsl.c
+  Generating shaders/gpu_shader_2D_image_vert.glsl.c
+  Generating shaders/gpu_shader_2D_image_rect_vert.glsl.c
+  Generating shaders/gpu_shader_2D_image_multi_rect_vert.glsl.c
+  Generating shaders/gpu_shader_image_frag.glsl.c
+  Generating shaders/gpu_shader_image_desaturate_frag.glsl.c
+  Generating shaders/gpu_shader_image_overlays_merge_frag.glsl.c
+  Generating shaders/gpu_shader_image_overlays_stereo_merge_frag.glsl.c
+  Generating shaders/gpu_shader_image_shuffle_color_frag.glsl.c
+  Generating shaders/gpu_shader_image_mask_uniform_color_frag.glsl.c
+  Generating shaders/gpu_shader_image_modulate_alpha_frag.glsl.c
+  Generating shaders/gpu_shader_image_alpha_color_frag.glsl.c
+  Generating shaders/gpu_shader_image_color_frag.glsl.c
+  Generating shaders/gpu_shader_image_varying_color_frag.glsl.c
+  Generating shaders/gpu_shader_3D_image_vert.glsl.c
+  Generating shaders/gpu_shader_3D_vert.glsl.c
+  Generating shaders/gpu_shader_3D_normal_vert.glsl.c
+  Generating shaders/gpu_shader_3D_flat_color_vert.glsl.c
+  Generating shaders/gpu_shader_3D_line_dashed_uniform_color_vert.glsl.c
+  Generating shaders/gpu_shader_3D_polyline_frag.glsl.c
+  Generating shaders/gpu_shader_3D_polyline_geom.glsl.c
+  Generating shaders/gpu_shader_3D_polyline_vert.glsl.c
+  Generating shaders/gpu_shader_3D_smooth_color_vert.glsl.c
+  Generating shaders/gpu_shader_3D_smooth_color_frag.glsl.c
+  Generating shaders/gpu_shader_3D_passthrough_vert.glsl.c
+  Generating shaders/gpu_shader_3D_clipped_uniform_color_vert.glsl.c
+  Generating shaders/gpu_shader_instance_variying_size_variying_color_vert.glsl.c
+  Generating shaders/gpu_shader_point_uniform_color_frag.glsl.c
+  Generating shaders/gpu_shader_point_uniform_color_aa_frag.glsl.c
+  Generating shaders/gpu_shader_point_uniform_color_outline_aa_frag.glsl.c
+  Generating shaders/gpu_shader_point_varying_color_outline_aa_frag.glsl.c
+  Generating shaders/gpu_shader_point_varying_color_varying_outline_aa_frag.glsl.c
+  Generating shaders/gpu_shader_point_varying_color_frag.glsl.c
+  Generating shaders/gpu_shader_3D_point_fixed_size_varying_color_vert.glsl.c
+  Generating shaders/gpu_shader_3D_point_varying_size_vert.glsl.c
+  Generating shaders/gpu_shader_3D_point_varying_size_varying_color_vert.glsl.c
+  Generating shaders/gpu_shader_3D_point_uniform_size_aa_vert.glsl.c
+  Generating shaders/gpu_shader_3D_point_uniform_size_outline_aa_vert.glsl.c
+  Generating shaders/gpu_shader_2D_point_varying_size_varying_color_vert.glsl.c
+  Generating shaders/gpu_shader_2D_point_uniform_size_aa_vert.glsl.c
+  Generating shaders/gpu_shader_2D_point_uniform_size_outline_aa_vert.glsl.c
+  Generating shaders/gpu_shader_2D_point_uniform_size_varying_color_outline_aa_vert.glsl.c
+  Generating shaders/gpu_shader_2D_edituvs_points_vert.glsl.c
+  Generating shaders/gpu_shader_2D_edituvs_facedots_vert.glsl.c
+  Generating shaders/gpu_shader_2D_edituvs_edges_vert.glsl.c
+  Generating shaders/gpu_shader_2D_edituvs_faces_vert.glsl.c
+  Generating shaders/gpu_shader_2D_edituvs_stretch_vert.glsl.c
+  Generating shaders/gpu_shader_text_vert.glsl.c
+  Generating shaders/gpu_shader_text_frag.glsl.c
+  Generating shaders/gpu_shader_keyframe_diamond_vert.glsl.c
+  Generating shaders/gpu_shader_keyframe_diamond_frag.glsl.c
+  Generating shaders/gpu_shader_geometry.glsl.c
+  Generating shaders/material/gpu_shader_material_add_shader.glsl.c
+  Generating shaders/material/gpu_shader_material_ambient_occlusion.glsl.c
+  Generating shaders/material/gpu_shader_material_anisotropic.glsl.c
+  Generating shaders/material/gpu_shader_material_attribute.glsl.c
+  Generating shaders/material/gpu_shader_material_background.glsl.c
+  Generating shaders/material/gpu_shader_material_bevel.glsl.c
+  Generating shaders/material/gpu_shader_material_blackbody.glsl.c
+  Generating shaders/material/gpu_shader_material_bright_contrast.glsl.c
+  Generating shaders/material/gpu_shader_material_bump.glsl.c
+  Generating shaders/material/gpu_shader_material_camera.glsl.c
+  Generating shaders/material/gpu_shader_material_clamp.glsl.c
+  Generating shaders/material/gpu_shader_material_color_ramp.glsl.c
+  Generating shaders/material/gpu_shader_material_color_util.glsl.c
+  Generating shaders/material/gpu_shader_material_combine_hsv.glsl.c
+  Generating shaders/material/gpu_shader_material_combine_rgb.glsl.c
+  Generating shaders/material/gpu_shader_material_combine_xyz.glsl.c
+  Generating shaders/material/gpu_shader_material_diffuse.glsl.c
+  Generating shaders/material/gpu_shader_material_displacement.glsl.c
+  Generating shaders/material/gpu_shader_material_eevee_specular.glsl.c
+  Generating shaders/material/gpu_shader_material_emission.glsl.c
+  Generating shaders/material/gpu_shader_material_fractal_noise.glsl.c
+  Generating shaders/material/gpu_shader_material_fresnel.glsl.c
+  Generating shaders/material/gpu_shader_material_gamma.glsl.c
+  Generating shaders/material/gpu_shader_material_geometry.glsl.c
+  Generating shaders/material/gpu_shader_material_glass.glsl.c
+  Generating shaders/material/gpu_shader_material_glossy.glsl.c
+  Generating shaders/material/gpu_shader_material_hair_info.glsl.c
+  Generating shaders/material/gpu_shader_material_hash.glsl.c
+  Generating shaders/material/gpu_shader_material_holdout.glsl.c
+  Generating shaders/material/gpu_shader_material_hue_sat_val.glsl.c
+  Generating shaders/material/gpu_shader_material_invert.glsl.c
+  Generating ../../../../release/datafiles/blender_icons32.png, ../../../../release/datafiles/blender_icons32.png.c
+  Generating shaders/material/gpu_shader_material_layer_weight.glsl.c
+  Generating shaders/material/gpu_shader_material_light_falloff.glsl.c
+  Generating shaders/material/gpu_shader_material_light_path.glsl.c
+  Generating shaders/material/gpu_shader_material_mapping.glsl.c
+  Generating shaders/material/gpu_shader_material_map_range.glsl.c
+  Generating shaders/material/gpu_shader_material_math.glsl.c
+  Generating shaders/material/gpu_shader_material_math_util.glsl.c
+  Generating shaders/material/gpu_shader_material_mix_rgb.glsl.c
+  Generating shaders/material/gpu_shader_material_mix_shader.glsl.c
+  Generating shaders/material/gpu_shader_material_noise.glsl.c
+  Generating shaders/material/gpu_shader_material_normal.glsl.c
+  Generating shaders/material/gpu_shader_material_normal_map.glsl.c
+  Generating shaders/material/gpu_shader_material_object_info.glsl.c
+  Generating shaders/material/gpu_shader_material_output_material.glsl.c
+  Generating shaders/material/gpu_shader_material_output_world.glsl.c
+  Generating shaders/material/gpu_shader_material_particle_info.glsl.c
+  Generating shaders/material/gpu_shader_material_principled.glsl.c
+  Generating shaders/material/gpu_shader_material_refraction.glsl.c
+  Generating shaders/material/gpu_shader_material_rgb_curves.glsl.c
+  Generating shaders/material/gpu_shader_material_rgb_to_bw.glsl.c
+  Generating shaders/material/gpu_shader_material_separate_hsv.glsl.c
+  Generating shaders/material/gpu_shader_material_separate_rgb.glsl.c
+  Generating shaders/material/gpu_shader_material_separate_xyz.glsl.c
+  Generating shaders/material/gpu_shader_material_set.glsl.c
+  Generating shaders/material/gpu_shader_material_shader_to_rgba.glsl.c
+  Generating shaders/material/gpu_shader_material_squeeze.glsl.c
+  Generating shaders/material/gpu_shader_material_subsurface_scattering.glsl.c
+  Generating shaders/material/gpu_shader_material_tangent.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_brick.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_checker.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_environment.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_gradient.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_image.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_magic.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_musgrave.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_noise.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_sky.glsl.c
+  Generating shaders/material/gpu_shader_material_texture_coordinates.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_voronoi.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_wave.glsl.c
+  Generating shaders/material/gpu_shader_material_tex_white_noise.glsl.c
+  Generating shaders/material/gpu_shader_material_toon.glsl.c
+  Generating shaders/material/gpu_shader_material_translucent.glsl.c
+  Generating shaders/material/gpu_shader_material_transparent.glsl.c
+  Generating shaders/material/gpu_shader_material_uv_map.glsl.c
+  Generating shaders/material/gpu_shader_material_vector_curves.glsl.c
+  Generating shaders/material/gpu_shader_material_vector_displacement.glsl.c
+  Generating shaders/material/gpu_shader_material_vector_math.glsl.c
+  Generating shaders/material/gpu_shader_material_vector_rotate.glsl.c
+  Generating shaders/material/gpu_shader_material_velvet.glsl.c
+  Generating shaders/material/gpu_shader_material_vertex_color.glsl.c
+  Generating shaders/material/gpu_shader_material_volume_absorption.glsl.c
+  Generating shaders/material/gpu_shader_material_volume_info.glsl.c
+  Generating shaders/material/gpu_shader_material_volume_principled.glsl.c
+  Generating shaders/material/gpu_shader_material_volume_scatter.glsl.c
+  Generating shaders/material/gpu_shader_material_wireframe.glsl.c
+  Generating shaders/material/gpu_shader_material_world_normals.glsl.c
+  Generating shaders/gpu_shader_gpencil_stroke_vert.glsl.c
+  Generating shaders/gpu_shader_gpencil_stroke_frag.glsl.c
+  Generating shaders/gpu_shader_gpencil_stroke_geom.glsl.c
+  Generating shaders/gpu_shader_gpencil_fill_vert.glsl.c
+  Generating shaders/gpu_shader_gpencil_fill_frag.glsl.c
+  Generating shaders/gpu_shader_cfg_world_clip_lib.glsl.c
+  Generating shaders/gpu_shader_colorspace_lib.glsl.c
+  Generating shaders/gpu_shader_common_obinfos_lib.glsl.c
+  Building Custom Rule D:/blender/src/blender/source/blender/gpu/CMakeLists.txt
+  gpu_attr_binding.c
+  gpu_batch.c
+  gpu_batch_presets.c
+  gpu_batch_utils.c
+  gpu_buffers.c
+  gpu_codegen.c
+  gpu_shader_display_transform.glsl.c
+  gpu_shader_display_transform_vertex.glsl.c
+  gpu_debug.c
+  gpu_draw.c
+  gpu_draw_smoke.c
+  gpu_element.c
+  gpu_extensions.c
+  gpu_framebuffer.c
+  gpu_immediate.c
+  gpu_immediate_util.c
+  gpu_init_exit.c
+  gpu_material.c
+  gpu_material_library.c
+  bf_intern_opencolorio.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_opencolorio.lib
+  gpu_matrix.c
+  gpu_node_graph.c
+  gpu_platform.c
+  gpu_primitive.c
+  gpu_select.c
+  gpu_select_pick.c
+  gpu_select_sample_query.c
+  gpu_shader.c
+  gpu_shader_interface.c
+  gpu_state.c
+  gpu_texture.c
+  gpu_uniformbuffer.c
+  gpu_vertex_buffer.c
+  gpu_vertex_format.c
+  gpu_viewport.c
+  gpu_shader_depth_only_frag.glsl.c
+  gpu_shader_uniform_color_frag.glsl.c
+  gpu_shader_checker_frag.glsl.c
+  gpu_shader_diag_stripes_frag.glsl.c
+  gpu_shader_simple_lighting_frag.glsl.c
+  gpu_shader_flat_color_frag.glsl.c
+  gpu_shader_flat_color_alpha_test_0_frag.glsl.c
+  gpu_shader_flat_id_frag.glsl.c
+  gpu_shader_2D_vert.glsl.c
+  gpu_shader_2D_area_borders_vert.glsl.c
+  gpu_shader_2D_area_borders_frag.glsl.c
+  gpu_shader_2D_widget_base_vert.glsl.c
+  gpu_shader_2D_widget_base_frag.glsl.c
+  gpu_shader_2D_widget_shadow_vert.glsl.c
+  gpu_shader_2D_widget_shadow_frag.glsl.c
+  gpu_shader_2D_nodelink_frag.glsl.c
+  gpu_shader_2D_nodelink_vert.glsl.c
+  gpu_shader_2D_flat_color_vert.glsl.c
+  gpu_shader_2D_line_dashed_uniform_color_vert.glsl.c
+  gpu_shader_2D_line_dashed_frag.glsl.c
+  gpu_shader_2D_smooth_color_vert.glsl.c
+  gpu_shader_2D_smooth_color_frag.glsl.c
+  gpu_shader_2D_image_vert.glsl.c
+  Generating engines/eevee/shaders/ambient_occlusion_lib.glsl.c
+  gpu_shader_2D_image_rect_vert.glsl.c
+  gpu_shader_2D_image_multi_rect_vert.glsl.c
+  gpu_shader_image_frag.glsl.c
+  gpu_shader_image_desaturate_frag.glsl.c
+  gpu_shader_image_overlays_merge_frag.glsl.c
+  gpu_shader_image_overlays_stereo_merge_frag.glsl.c
+  gpu_shader_image_shuffle_color_frag.glsl.c
+  gpu_shader_image_mask_uniform_color_frag.glsl.c
+  gpu_shader_image_modulate_alpha_frag.glsl.c
+  gpu_shader_image_alpha_color_frag.glsl.c
+  gpu_shader_image_color_frag.glsl.c
+  gpu_shader_image_varying_color_frag.glsl.c
+  gpu_shader_3D_image_vert.glsl.c
+  gpu_shader_3D_vert.glsl.c
+  gpu_shader_3D_normal_vert.glsl.c
+  gpu_shader_3D_flat_color_vert.glsl.c
+  gpu_shader_3D_line_dashed_uniform_color_vert.glsl.c
+  gpu_shader_3D_polyline_frag.glsl.c
+  gpu_shader_3D_polyline_geom.glsl.c
+  gpu_shader_3D_polyline_vert.glsl.c
+  gpu_shader_3D_smooth_color_vert.glsl.c
+  gpu_shader_3D_smooth_color_frag.glsl.c
+  gpu_shader_3D_passthrough_vert.glsl.c
+  gpu_shader_3D_clipped_uniform_color_vert.glsl.c
+  gpu_shader_instance_variying_size_variying_color_vert.glsl.c
+  gpu_shader_point_uniform_color_frag.glsl.c
+  gpu_shader_point_uniform_color_aa_frag.glsl.c
+  gpu_shader_point_uniform_color_outline_aa_frag.glsl.c
+  gpu_shader_point_varying_color_outline_aa_frag.glsl.c
+  gpu_shader_point_varying_color_varying_outline_aa_frag.glsl.c
+  gpu_shader_point_varying_color_frag.glsl.c
+  gpu_shader_3D_point_fixed_size_varying_color_vert.glsl.c
+  gpu_shader_3D_point_varying_size_vert.glsl.c
+  gpu_shader_3D_point_varying_size_varying_color_vert.glsl.c
+  gpu_shader_3D_point_uniform_size_aa_vert.glsl.c
+  gpu_shader_3D_point_uniform_size_outline_aa_vert.glsl.c
+  Generating engines/eevee/shaders/default_frag.glsl.c
+  gpu_shader_2D_point_varying_size_varying_color_vert.glsl.c
+  gpu_shader_2D_point_uniform_size_aa_vert.glsl.c
+  gpu_shader_2D_point_uniform_size_outline_aa_vert.glsl.c
+  gpu_shader_2D_point_uniform_size_varying_color_outline_aa_vert.glsl.c
+  gpu_shader_2D_edituvs_points_vert.glsl.c
+  gpu_shader_2D_edituvs_facedots_vert.glsl.c
+  gpu_shader_2D_edituvs_edges_vert.glsl.c
+  gpu_shader_2D_edituvs_faces_vert.glsl.c
+  gpu_shader_2D_edituvs_stretch_vert.glsl.c
+  gpu_shader_text_vert.glsl.c
+  gpu_shader_text_frag.glsl.c
+  gpu_shader_keyframe_diamond_vert.glsl.c
+  gpu_shader_keyframe_diamond_frag.glsl.c
+  gpu_shader_geometry.glsl.c
+  gpu_shader_material_add_shader.glsl.c
+  gpu_shader_material_ambient_occlusion.glsl.c
+  gpu_shader_material_anisotropic.glsl.c
+  gpu_shader_material_attribute.glsl.c
+  gpu_shader_material_background.glsl.c
+  gpu_shader_material_bevel.glsl.c
+  gpu_shader_material_blackbody.glsl.c
+  gpu_shader_material_bright_contrast.glsl.c
+  gpu_shader_material_bump.glsl.c
+  gpu_shader_material_camera.glsl.c
+  gpu_shader_material_clamp.glsl.c
+  gpu_shader_material_color_ramp.glsl.c
+  gpu_shader_material_color_util.glsl.c
+  gpu_shader_material_combine_hsv.glsl.c
+  gpu_shader_material_combine_rgb.glsl.c
+  gpu_shader_material_combine_xyz.glsl.c
+  gpu_shader_material_diffuse.glsl.c
+  gpu_shader_material_displacement.glsl.c
+  gpu_shader_material_eevee_specular.glsl.c
+  gpu_shader_material_emission.glsl.c
+  gpu_shader_material_fractal_noise.glsl.c
+  gpu_shader_material_fresnel.glsl.c
+  gpu_shader_material_gamma.glsl.c
+  gpu_shader_material_geometry.glsl.c
+  gpu_shader_material_glass.glsl.c
+  gpu_shader_material_glossy.glsl.c
+  gpu_shader_material_hair_info.glsl.c
+  Generating engines/eevee/shaders/default_world_frag.glsl.c
+  gpu_shader_material_hash.glsl.c
+  gpu_shader_material_holdout.glsl.c
+  gpu_shader_material_hue_sat_val.glsl.c
+  gpu_shader_material_invert.glsl.c
+  gpu_shader_material_layer_weight.glsl.c
+  gpu_shader_material_light_falloff.glsl.c
+  Generating engines/eevee/shaders/background_vert.glsl.c
+  gpu_shader_material_light_path.glsl.c
+  gpu_shader_material_mapping.glsl.c
+  gpu_shader_material_map_range.glsl.c
+  gpu_shader_material_math.glsl.c
+  gpu_shader_material_math_util.glsl.c
+  gpu_shader_material_mix_rgb.glsl.c
+  gpu_shader_material_mix_shader.glsl.c
+  gpu_shader_material_noise.glsl.c
+  gpu_shader_material_normal.glsl.c
+  gpu_shader_material_normal_map.glsl.c
+  gpu_shader_material_object_info.glsl.c
+  gpu_shader_material_output_material.glsl.c
+  gpu_shader_material_output_world.glsl.c
+  Generating engines/eevee/shaders/concentric_samples_lib.glsl.c
+  gpu_shader_material_particle_info.glsl.c
+  gpu_shader_material_principled.glsl.c
+  gpu_shader_material_refraction.glsl.c
+  gpu_shader_material_rgb_curves.glsl.c
+  gpu_shader_material_rgb_to_bw.glsl.c
+  gpu_shader_material_separate_hsv.glsl.c
+  gpu_shader_material_separate_rgb.glsl.c
+  gpu_shader_material_separate_xyz.glsl.c
+  gpu_shader_material_set.glsl.c
+  gpu_shader_material_shader_to_rgba.glsl.c
+  gpu_shader_material_squeeze.glsl.c
+  gpu_shader_material_subsurface_scattering.glsl.c
+  gpu_shader_material_tangent.glsl.c
+  gpu_shader_material_tex_brick.glsl.c
+  gpu_shader_material_tex_checker.glsl.c
+  gpu_shader_material_tex_environment.glsl.c
+  gpu_shader_material_tex_gradient.glsl.c
+  gpu_shader_material_tex_image.glsl.c
+  gpu_shader_material_tex_magic.glsl.c
+  gpu_shader_material_tex_musgrave.glsl.c
+  gpu_shader_material_tex_noise.glsl.c
+  gpu_shader_material_tex_sky.glsl.c
+  gpu_shader_material_texture_coordinates.glsl.c
+  gpu_shader_material_tex_voronoi.glsl.c
+  gpu_shader_material_tex_wave.glsl.c
+  gpu_shader_material_tex_white_noise.glsl.c
+  gpu_shader_material_toon.glsl.c
+  gpu_shader_material_translucent.glsl.c
+  gpu_shader_material_transparent.glsl.c
+  gpu_shader_material_uv_map.glsl.c
+  Generating engines/eevee/shaders/common_uniforms_lib.glsl.c
+  gpu_shader_material_vector_curves.glsl.c
+  gpu_shader_material_vector_displacement.glsl.c
+  gpu_shader_material_vector_math.glsl.c
+  gpu_shader_material_vector_rotate.glsl.c
+  gpu_shader_material_velvet.glsl.c
+  gpu_shader_material_vertex_color.glsl.c
+  gpu_shader_material_volume_absorption.glsl.c
+  gpu_shader_material_volume_info.glsl.c
+  gpu_shader_material_volume_principled.glsl.c
+  gpu_shader_material_volume_scatter.glsl.c
+  gpu_shader_material_wireframe.glsl.c
+  gpu_shader_material_world_normals.glsl.c
+  gpu_shader_gpencil_stroke_vert.glsl.c
+  gpu_shader_gpencil_stroke_frag.glsl.c
+  gpu_shader_gpencil_stroke_geom.glsl.c
+  gpu_shader_gpencil_fill_vert.glsl.c
+  gpu_shader_gpencil_fill_frag.glsl.c
+  gpu_shader_cfg_world_clip_lib.glsl.c
+  gpu_shader_colorspace_lib.glsl.c
+  gpu_shader_common_obinfos_lib.glsl.c
+  Generating engines/eevee/shaders/lights_lib.glsl.c
+  Generating engines/eevee/shaders/lightprobe_lib.glsl.c
+  Generating engines/eevee/shaders/lightprobe_filter_glossy_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_filter_diffuse_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_filter_visibility_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_geom.glsl.c
+  Generating engines/eevee/shaders/lightprobe_vert.glsl.c
+  Generating engines/eevee/shaders/lightprobe_cube_display_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_cube_display_vert.glsl.c
+  Generating engines/eevee/shaders/lightprobe_grid_display_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_grid_display_vert.glsl.c
+  Generating engines/eevee/shaders/lightprobe_grid_fill_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_planar_display_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_planar_display_vert.glsl.c
+  Generating engines/eevee/shaders/lit_surface_frag.glsl.c
+  Generating engines/eevee/shaders/lit_surface_vert.glsl.c
+  Generating engines/eevee/shaders/effect_bloom_frag.glsl.c
+  Generating engines/eevee/shaders/effect_dof_vert.glsl.c
+  Generating engines/eevee/shaders/effect_dof_frag.glsl.c
+  Generating engines/eevee/shaders/effect_downsample_frag.glsl.c
+  Generating engines/eevee/shaders/effect_downsample_cube_frag.glsl.c
+  Generating engines/eevee/shaders/effect_gtao_frag.glsl.c
+  Generating engines/eevee/shaders/effect_velocity_resolve_frag.glsl.c
+  Generating engines/eevee/shaders/effect_minmaxz_frag.glsl.c
+  Generating engines/eevee/shaders/effect_mist_frag.glsl.c
+  Generating engines/eevee/shaders/effect_motion_blur_frag.glsl.c
+  Generating engines/eevee/shaders/effect_ssr_frag.glsl.c
+  Generating engines/eevee/shaders/effect_subsurface_frag.glsl.c
+  Generating engines/eevee/shaders/effect_translucency_frag.glsl.c
+  Generating engines/eevee/shaders/effect_temporal_aa.glsl.c
+  Generating engines/eevee/shaders/lightprobe_planar_downsample_frag.glsl.c
+  Generating engines/eevee/shaders/lightprobe_planar_downsample_geom.glsl.c
+  Generating engines/eevee/shaders/lightprobe_planar_downsample_vert.glsl.c
+  Generating engines/eevee/shaders/prepass_frag.glsl.c
+  Generating engines/eevee/shaders/prepass_vert.glsl.c
+  Generating engines/eevee/shaders/shadow_accum_frag.glsl.c
+  Generating engines/eevee/shaders/shadow_frag.glsl.c
+  Generating engines/eevee/shaders/shadow_vert.glsl.c
+  Generating engines/eevee/shaders/bsdf_lut_frag.glsl.c
+  Generating engines/eevee/shaders/btdf_lut_frag.glsl.c
+  Generating engines/eevee/shaders/bsdf_common_lib.glsl.c
+  Generating engines/eevee/shaders/irradiance_lib.glsl.c
+  Generating engines/eevee/shaders/octahedron_lib.glsl.c
+  Generating engines/eevee/shaders/cubemap_lib.glsl.c
+  Generating engines/eevee/shaders/bsdf_sampling_lib.glsl.c
+  Generating engines/eevee/shaders/raytrace_lib.glsl.c
+  Generating engines/eevee/shaders/renderpass_postprocess_frag.glsl.c
+  Generating engines/eevee/shaders/ltc_lib.glsl.c
+  Generating engines/eevee/shaders/ssr_lib.glsl.c
+  Generating engines/eevee/shaders/update_noise_frag.glsl.c
+  Generating engines/eevee/shaders/volumetric_accum_frag.glsl.c
+  Generating engines/eevee/shaders/volumetric_lib.glsl.c
+  Generating engines/eevee/shaders/volumetric_frag.glsl.c
+  Generating engines/eevee/shaders/volumetric_geom.glsl.c
+  Generating engines/eevee/shaders/volumetric_vert.glsl.c
+  Generating engines/eevee/shaders/volumetric_resolve_frag.glsl.c
+  Generating engines/eevee/shaders/volumetric_scatter_frag.glsl.c
+  Generating engines/eevee/shaders/volumetric_integration_frag.glsl.c
+  Generating engines/workbench/shaders/workbench_cavity_lib.glsl.c
+  Generating engines/workbench/shaders/workbench_common_lib.glsl.c
+  Generating engines/workbench/shaders/workbench_composite_frag.glsl.c
+  Generating engines/workbench/shaders/workbench_curvature_lib.glsl.c
+  Generating engines/workbench/shaders/workbench_data_lib.glsl.c
+  Generating engines/workbench/shaders/workbench_effect_cavity_frag.glsl.c
+  Generating ../../../../release/datafiles/prvicons.png.c
+  Generating engines/workbench/shaders/workbench_effect_dof_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/blob.png.c
+  Generating engines/workbench/shaders/workbench_effect_outline_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/blur.png.c
+  Generating engines/workbench/shaders/workbench_effect_smaa_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/clay.png.c
+  Generating engines/workbench/shaders/workbench_effect_smaa_vert.glsl.c
+  Generating engines/workbench/shaders/workbench_effect_taa_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/claystrips.png.c
+  Generating engines/workbench/shaders/workbench_image_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/clone.png.c
+  Generating engines/workbench/shaders/workbench_matcap_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/crease.png.c
+  Generating engines/workbench/shaders/workbench_material_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/draw.png.c
+  Generating engines/workbench/shaders/workbench_merge_infront_frag.glsl.c
+  Generating engines/workbench/shaders/workbench_prepass_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/fill.png.c
+  Generating engines/workbench/shaders/workbench_prepass_hair_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/flatten.png.c
+  Generating engines/workbench/shaders/workbench_prepass_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/grab.png.c
+  Generating engines/workbench/shaders/workbench_shader_interface_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/inflate.png.c
+  Generating engines/workbench/shaders/workbench_shadow_caps_geom.glsl.c
+  Generating ../../../../release/datafiles/brushicons/layer.png.c
+  Generating engines/workbench/shaders/workbench_shadow_debug_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/mask.png.c
+  Generating engines/workbench/shaders/workbench_shadow_geom.glsl.c
+  Generating ../../../../release/datafiles/brushicons/mix.png.c
+  Generating engines/workbench/shaders/workbench_shadow_vert.glsl.c
+  Generating engines/workbench/shaders/workbench_transparent_accum_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/nudge.png.c
+  Generating engines/workbench/shaders/workbench_transparent_resolve_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/pinch.png.c
+  Generating engines/workbench/shaders/workbench_volume_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/scrape.png.c
+  Generating engines/workbench/shaders/workbench_volume_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/smear.png.c
+  Generating ../../../../release/datafiles/brushicons/smooth.png.c
+  Generating engines/workbench/shaders/workbench_world_light_lib.glsl.c
+  Generating intern/shaders/common_colormanagement_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/snake_hook.png.c
+  Generating intern/shaders/common_globals_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/soften.png.c
+  Generating intern/shaders/common_hair_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/texdraw.png.c
+  Generating ../../../../release/datafiles/brushicons/texfill.png.c
+  Generating intern/shaders/common_hair_refine_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/texmask.png.c
+  Generating intern/shaders/common_view_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/thumb.png.c
+  Generating intern/shaders/common_fxaa_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/twist.png.c
+  Generating intern/shaders/common_smaa_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_smooth.png.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_thickness.png.c
+  Generating intern/shaders/common_fullscreen_vert.glsl.c
+  Generating engines/gpencil/shaders/gpencil_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_strength.png.c
+  Generating engines/gpencil/shaders/gpencil_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_grab.png.c
+  Generating engines/gpencil/shaders/gpencil_antialiasing_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_push.png.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_twist.png.c
+  Generating engines/gpencil/shaders/gpencil_antialiasing_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_pinch.png.c
+  Generating engines/gpencil/shaders/gpencil_common_lib.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_randomize.png.c
+  Generating engines/gpencil/shaders/gpencil_layer_blend_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_clone.png.c
+  Generating engines/gpencil/shaders/gpencil_mask_invert_frag.glsl.c
+  Generating engines/gpencil/shaders/gpencil_depth_merge_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_weight.png.c
+  Generating engines/gpencil/shaders/gpencil_depth_merge_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_pencil.png.c
+  Generating engines/gpencil/shaders/gpencil_vfx_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_pen.png.c
+  Generating engines/select/shaders/selection_id_3D_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_ink.png.c
+  Generating engines/select/shaders/selection_id_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_inknoise.png.c
+  Generating engines/basic/shaders/conservative_depth_geom.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_block.png.c
+  Generating engines/basic/shaders/conservative_depth_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_marker.png.c
+  Generating engines/basic/shaders/conservative_depth_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_fill.png.c
+  Generating engines/overlay/shaders/antialiasing_frag.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_airbrush.png.c
+  Generating engines/overlay/shaders/antialiasing_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_chisel.png.c
+  Generating engines/overlay/shaders/armature_dof_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_erase_soft.png.c
+  Generating engines/overlay/shaders/armature_dof_solid_frag.glsl.c
+  Generating engines/overlay/shaders/armature_envelope_outline_vert.glsl.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_erase_hard.png.c
+  Generating ../../../../release/datafiles/brushicons/gp_brush_erase_stroke.png.c
+  Generating engines/overlay/shaders/armature_envelope_solid_frag.glsl.c
+  Generating engines/overlay/shaders/armature_envelope_solid_vert.glsl.c
+  Generating ../../../../release/datafiles/startup.blend.c
+  Generating engines/overlay/shaders/armature_shape_outline_geom.glsl.c
+  Generating engines/overlay/shaders/armature_shape_outline_vert.glsl.c
+  Generating engines/overlay/shaders/armature_shape_solid_frag.glsl.c
+  Generating engines/overlay/shaders/armature_shape_solid_vert.glsl.c
+  Generating engines/overlay/shaders/armature_shape_wire_vert.glsl.c
+  Building Custom Rule D:/blender/src/blender/source/blender/editors/datafiles/CMakeLists.txt
+  Generating engines/overlay/shaders/armature_sphere_outline_vert.glsl.c
+  Generating engines/overlay/shaders/armature_sphere_solid_frag.glsl.c
+  Generating engines/overlay/shaders/armature_sphere_solid_vert.glsl.c
+  Generating engines/overlay/shaders/armature_stick_frag.glsl.c
+  Generating engines/overlay/shaders/armature_stick_vert.glsl.c
+  Generating engines/overlay/shaders/armature_wire_frag.glsl.c
+  camera_intrinsics.cc
+  Generating engines/overlay/shaders/armature_wire_vert.glsl.c
+  bfont.pfb.c
+  preview.blend.c
+  preview_grease_pencil.blend.c
+  splash.png.c
+  alert_icons.png.c
+  blender_icons16.png.c
+  blender_icons32.png.c
+  prvicons.png.c
+  blob.png.c
+  blur.png.c
+  clay.png.c
+  claystrips.png.c
+  clone.png.c
+  crease.png.c
+  draw.png.c
+  fill.png.c
+  flatten.png.c
+  grab.png.c
+  inflate.png.c
+  layer.png.c
+  mask.png.c
+  mix.png.c
+  nudge.png.c
+  Generating engines/overlay/shaders/background_frag.glsl.c
+  pinch.png.c
+  scrape.png.c
+  smear.png.c
+  smooth.png.c
+  snake_hook.png.c
+  soften.png.c
+  texdraw.png.c
+  texfill.png.c
+  texmask.png.c
+  thumb.png.c
+  twist.png.c
+  gp_brush_smooth.png.c
+  gp_brush_thickness.png.c
+  gp_brush_strength.png.c
+  gp_brush_grab.png.c
+  gp_brush_push.png.c
+  gp_brush_twist.png.c
+  gp_brush_pinch.png.c
+  gp_brush_randomize.png.c
+  gp_brush_clone.png.c
+  gp_brush_weight.png.c
+  gp_brush_pencil.png.c
+  gp_brush_pen.png.c
+  gp_brush_ink.png.c
+  gp_brush_inknoise.png.c
+  gp_brush_block.png.c
+  gp_brush_marker.png.c
+  gp_brush_fill.png.c
+  gp_brush_airbrush.png.c
+  gp_brush_chisel.png.c
+  gp_brush_erase_soft.png.c
+  gp_brush_erase_hard.png.c
+  gp_brush_erase_stroke.png.c
+  startup.blend.c
+  Generating engines/overlay/shaders/clipbound_vert.glsl.c
+  Generating engines/overlay/shaders/depth_only_vert.glsl.c
+  Generating engines/overlay/shaders/edit_curve_handle_geom.glsl.c
+  Generating engines/overlay/shaders/edit_curve_handle_vert.glsl.c
+  Generating engines/overlay/shaders/edit_curve_point_vert.glsl.c
+  Generating engines/overlay/shaders/edit_curve_wire_vert.glsl.c
+  Generating engines/overlay/shaders/edit_gpencil_canvas_vert.glsl.c
+  Generating engines/overlay/shaders/edit_gpencil_guide_vert.glsl.c
+  Generating engines/overlay/shaders/edit_gpencil_vert.glsl.c
+  Generating engines/overlay/shaders/edit_lattice_point_vert.glsl.c
+  Generating engines/overlay/shaders/edit_lattice_wire_vert.glsl.c
+  Generating engines/overlay/shaders/edit_mesh_common_lib.glsl.c
+  reconstruction.cc
+  Generating engines/overlay/shaders/edit_mesh_facefill_frag.glsl.c
+  Generating engines/overlay/shaders/edit_mesh_facefill_vert.glsl.c
+  Generating engines/overlay/shaders/edit_mesh_frag.glsl.c
+  bf_editor_datafiles.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_editor_datafiles.lib
+  Generating engines/overlay/shaders/edit_mesh_geom.glsl.c
+  Generating engines/overlay/shaders/edit_mesh_normal_vert.glsl.c
+  Generating engines/overlay/shaders/edit_mesh_analysis_frag.glsl.c
+  Generating operations/COM_OpenCLKernels.cl.h
+  Generating engines/overlay/shaders/edit_mesh_analysis_vert.glsl.c
+  Generating engines/overlay/shaders/edit_mesh_skin_root_vert.glsl.c
+  Building Custom Rule D:/blender/src/blender/source/blender/compositor/CMakeLists.txt
+  Generating engines/overlay/shaders/edit_mesh_vert.glsl.c
+  Generating engines/overlay/shaders/edit_particle_strand_vert.glsl.c
+  Generating engines/overlay/shaders/edit_particle_point_vert.glsl.c
+  COM_CPUDevice.cpp
+  COM_ChunkOrder.cpp
+  COM_ChunkOrderHotspot.cpp
+  COM_CompositorContext.cpp
+  COM_Converter.cpp
+  COM_Debug.cpp
+  Generating engines/overlay/shaders/extra_frag.glsl.c
+  COM_Device.cpp
+  Generating engines/overlay/shaders/extra_vert.glsl.c
+  COM_ExecutionGroup.cpp
+  COM_ExecutionSystem.cpp
+  COM_MemoryBuffer.cpp
+  tracks.cc
+  Generating engines/overlay/shaders/extra_groundline_vert.glsl.c
+  COM_MemoryProxy.cpp
+  COM_Node.cpp
+  COM_NodeConverter.cpp
+  COM_NodeGraph.cpp
+  Generating engines/overlay/shaders/extra_lightprobe_grid_vert.glsl.c
+  COM_NodeOperation.cpp
+  COM_NodeOperationBuilder.cpp
+  COM_OpenCLDevice.cpp
+  COM_SingleThreadedOperation.cpp
+  Generating engines/overlay/shaders/extra_loose_point_frag.glsl.c
+  COM_SocketReader.cpp
+  COM_WorkPackage.cpp
+  COM_WorkScheduler.cpp
+  Generating engines/overlay/shaders/extra_loose_point_vert.glsl.c
+  COM_compositor.cpp
+  COM_QualityStepHelper.cpp
+  COM_SocketProxyNode.cpp
+  COM_BokehImageNode.cpp
+  Generating engines/overlay/shaders/extra_point_vert.glsl.c
+  COM_ColorNode.cpp
+  COM_ImageNode.cpp
+  track_region.cc
+  Generating engines/overlay/shaders/extra_wire_frag.glsl.c
+  Generating engines/overlay/shaders/extra_wire_vert.glsl.c
+  COM_MaskNode.cpp
+  COM_MovieClipNode.cpp
+  COM_OutputFileNode.cpp
+  COM_RenderLayersNode.cpp
+  Generating engines/overlay/shaders/facing_frag.glsl.c
+  COM_SwitchNode.cpp
+  COM_SwitchViewNode.cpp
+  COM_TextureNode.cpp
+  COM_TimeNode.cpp
+  COM_ValueNode.cpp
+  COM_CompositorNode.cpp
+  Generating engines/overlay/shaders/facing_vert.glsl.c
+  COM_SplitViewerNode.cpp
+  COM_ViewLevelsNode.cpp
+  COM_ViewerNode.cpp
+  COM_CalculateMeanOperation.cpp
+  Generating engines/overlay/shaders/grid_frag.glsl.c
+  COM_CalculateStandardDeviationOperation.cpp
+  COM_FlipNode.cpp
+  Generating engines/overlay/shaders/grid_vert.glsl.c
+  COM_RotateNode.cpp
+  Generating engines/overlay/shaders/image_vert.glsl.c
+  COM_ScaleNode.cpp
+  COM_TranslateNode.cpp
+  COM_DisplaceNode.cpp
+  COM_MapUVNode.cpp
+  COM_ChannelMatteNode.cpp
+  COM_ChromaMatteNode.cpp
+  COM_ColorMatteNode.cpp
+  Generating engines/overlay/shaders/image_frag.glsl.c
+  Generating engines/overlay/shaders/motion_path_line_geom.glsl.c
+  COM_DifferenceMatteNode.cpp
+  COM_DistanceMatteNode.cpp
+  Generating engines/overlay/shaders/motion_path_line_vert.glsl.c
+  COM_LensDistortionNode.cpp
+  COM_LuminanceMatteNode.cpp
+  Generating engines/overlay/shaders/motion_path_point_vert.glsl.c
+  Generating engines/overlay/shaders/outline_detect_frag.glsl.c
+  COM_GlareNode.cpp
+  COM_SunBeamsNode.cpp
+  COM_SunBeamsOperation.cpp
+  COM_CryptomatteNode.cpp
+  Generating engines/overlay/shaders/outline_prepass_frag.glsl.c
+  COM_CryptomatteOperation.cpp
+  COM_CornerPinNode.cpp
+  COM_PlaneTrackDeformNode.cpp
+  Generating engines/overlay/shaders/outline_prepass_geom.glsl.c
+  COM_CropNode.cpp
+  COM_CropOperation.cpp
+  Generating engines/overlay/shaders/outline_prepass_vert.glsl.c
+  COM_DefocusNode.cpp
+  Generating engines/overlay/shaders/paint_face_vert.glsl.c
+  COM_MovieDistortionNode.cpp
+  COM_Stabilize2dNode.cpp
+  COM_TransformNode.cpp
+  COM_AlphaOverNode.cpp
+  COM_BrightnessNode.cpp
+  Generating engines/overlay/shaders/paint_point_vert.glsl.c
+  COM_ColorBalanceNode.cpp
+  COM_ColorCorrectionNode.cpp
+  COM_ColorCurveNode.cpp
+  COM_ColorRampNode.cpp
+  Generating engines/overlay/shaders/paint_texture_frag.glsl.c
+  Generating engines/overlay/shaders/paint_texture_vert.glsl.c
+  Generating engines/overlay/shaders/paint_vertcol_frag.glsl.c
+  COM_ColorToBWNode.cpp
+  Generating engines/overlay/shaders/paint_vertcol_vert.glsl.c
+  COM_ConvertAlphaNode.cpp
+  COM_GammaNode.cpp
+  Generating engines/overlay/shaders/paint_weight_frag.glsl.c
+  Generating engines/overlay/shaders/paint_weight_vert.glsl.c
+  Generating engines/overlay/shaders/paint_wire_vert.glsl.c
+  COM_HueSaturationValueCorrectNode.cpp
+  COM_HueSaturationValueNode.cpp
+  COM_InvertNode.cpp
+  COM_MixNode.cpp
+  COM_SetAlphaNode.cpp
+  Generating engines/overlay/shaders/particle_vert.glsl.c
+  COM_TonemapNode.cpp
+  COM_VectorCurveNode.cpp
+  COM_ZCombineNode.cpp
+  COM_TonemapOperation.cpp
+  COM_CombineColorNode.cpp
+  COM_IDMaskNode.cpp
+  Generating engines/overlay/shaders/particle_frag.glsl.c
+  Generating engines/overlay/shaders/pointcloud_vert.glsl.c
+  Generating engines/overlay/shaders/pointcloud_frag.glsl.c
+  COM_SeparateColorNode.cpp
+  COM_MapRangeNode.cpp
+  COM_MapValueNode.cpp
+  COM_MathNode.cpp
+  COM_NormalNode.cpp
+  COM_NormalizeNode.cpp
+  Generating engines/overlay/shaders/sculpt_mask_vert.glsl.c
+  COM_NormalizeOperation.cpp
+  COM_PixelateNode.cpp
+  COM_PixelateOperation.cpp
+  COM_BilateralBlurNode.cpp
+  Generating engines/overlay/shaders/sculpt_mask_frag.glsl.c
+  Generating engines/overlay/shaders/volume_velocity_vert.glsl.c
+  COM_BilateralBlurOperation.cpp
+  COM_VectorBlurNode.cpp
+  COM_VectorBlurOperation.cpp
+  Generating engines/overlay/shaders/wireframe_vert.glsl.c
+  COM_BlurNode.cpp
+  Generating engines/overlay/shaders/wireframe_frag.glsl.c
+  COM_BokehBlurNode.cpp
+  COM_DenoiseNode.cpp
+  COM_DespeckleNode.cpp
+  COM_DilateErodeNode.cpp
+  Generating engines/overlay/shaders/xray_fade_frag.glsl.c
+  Building Custom Rule D:/blender/src/blender/source/blender/draw/CMakeLists.txt
+  COM_DirectionalBlurNode.cpp
+  COM_FilterNode.cpp
+  COM_InpaintNode.cpp
+  COM_BlurBaseOperation.cpp
+  COM_BokehBlurOperation.cpp
+  COM_DirectionalBlurOperation.cpp
+  COM_FastGaussianBlurOperation.cpp
+  draw_cache.c
+  draw_cache_extract_mesh.c
+  draw_cache_impl_curve.c
+  draw_cache_impl_displist.c
+  draw_cache_impl_gpencil.c
+  draw_cache_impl_hair.c
+  COM_GammaCorrectOperation.cpp
+  COM_GaussianAlphaXBlurOperation.cpp
+  COM_GaussianAlphaYBlurOperation.cpp
+  COM_GaussianBokehBlurOperation.cpp
+  draw_cache_impl_lattice.c
+  COM_GaussianXBlurOperation.cpp
+  COM_GaussianYBlurOperation.cpp
+  draw_cache_impl_mesh.c
+  draw_cache_impl_metaball.c
+  draw_cache_impl_particles.c
+  draw_cache_impl_pointcloud.c
+  COM_MovieClipAttributeOperation.cpp
+  draw_cache_impl_volume.c
+  draw_color_management.c
+  draw_common.c
+  COM_MovieDistortionOperation.cpp
+  draw_debug.c
+  COM_VariableSizeBokehBlurOperation.cpp
+  draw_hair.c
+  draw_instance_data.c
+  COM_BoxMaskNode.cpp
+  draw_manager.c
+  draw_manager_data.c
+  draw_manager_exec.c
+  draw_manager_profiling.c
+  COM_ColorSpillNode.cpp
+  draw_manager_shader.c
+  COM_DoubleEdgeMaskNode.cpp
+  draw_manager_text.c
+  COM_EllipseMaskNode.cpp
+  draw_manager_texture.c
+  draw_select_buffer.c
+  draw_view.c
+  COM_DoubleEdgeMaskOperation.cpp
+  COM_KeyingScreenNode.cpp
+  basic_engine.c
+  eevee_bloom.c
+  eevee_data.c
+  eevee_depth_of_field.c
+  eevee_effects.c
+  eevee_engine.c
+  eevee_lightcache.c
+  eevee_lightprobes.c
+  eevee_lights.c
+  COM_KeyingScreenOperation.cpp
+  eevee_lookdev.c
+  eevee_lut.c
+  eevee_materials.c
+  COM_TrackPositionNode.cpp
+  eevee_mist.c
+  eevee_motion_blur.c
+  eevee_occlusion.c
+  COM_TrackPositionOperation.cpp
+  COM_KeyingNode.cpp
+  COM_KeyingBlurOperation.cpp
+  eevee_render.c
+  eevee_renderpasses.c
+  eevee_sampling.c
+  eevee_screen_raytrace.c
+  COM_KeyingClipOperation.cpp
+  eevee_shaders.c
+  COM_KeyingDespillOperation.cpp
+  eevee_shadows.c
+  eevee_shadows_cascade.c
+  eevee_shadows_cube.c
+  COM_KeyingOperation.cpp
+  eevee_subsurface.c
+  eevee_temporal_sampling.c
+  eevee_volumes.c
+  workbench_data.c
+  workbench_effect_antialiasing.c
+  COM_ColorSpillOperation.cpp
+  workbench_effect_cavity.c
+  workbench_effect_dof.c
+  workbench_effect_outline.c
+  COM_RenderLayersProg.cpp
+  workbench_engine.c
+  workbench_materials.c
+  COM_BokehImageOperation.cpp
+  workbench_opaque.c
+  COM_ImageOperation.cpp
+  workbench_render.c
+  workbench_shader.c
+  workbench_shadow.c
+  workbench_transparent.c
+  workbench_volume.c
+  external_engine.c
+  gpencil_antialiasing.c
+  gpencil_cache_utils.c
+  gpencil_draw_data.c
+  gpencil_engine.c
+  COM_MultilayerImageOperation.cpp
+  COM_TextureOperation.cpp
+  gpencil_render.c
+  gpencil_shader.c
+  COM_SocketProxyOperation.cpp
+  gpencil_shader_fx.c
+  COM_CompositorOperation.cpp
+  COM_ConvertDepthToRadiusOperation.cpp
+  select_draw_utils.c
+  COM_OutputFileMultiViewOperation.cpp
+  select_engine.c
+  overlay_antialiasing.c
+  overlay_armature.c
+  overlay_background.c
+  COM_OutputFileOperation.cpp
+  overlay_edit_curve.c
+  COM_PreviewOperation.cpp
+  overlay_edit_mesh.c
+  overlay_edit_text.c
+  overlay_engine.c
+  overlay_extra.c
+  overlay_facing.c
+  COM_SplitOperation.cpp
+  COM_ViewerOperation.cpp
+  overlay_gpencil.c
+  overlay_grid.c
+  overlay_image.c
+  overlay_lattice.c
+  COM_ZCombineOperation.cpp
+  overlay_metaball.c
+  overlay_motion_path.c
+  COM_ChangeHSVOperation.cpp
+  COM_ChannelMatteOperation.cpp
+  overlay_outline.c
+  overlay_paint.c
+  overlay_particle.c
+  overlay_pointcloud.c
+  overlay_sculpt.c
+  overlay_shader.c
+  overlay_wireframe.c
+  ambient_occlusion_lib.glsl.c
+  default_frag.glsl.c
+  default_world_frag.glsl.c
+  background_vert.glsl.c
+  concentric_samples_lib.glsl.c
+  common_uniforms_lib.glsl.c
+  lights_lib.glsl.c
+  COM_ChromaMatteOperation.cpp
+  COM_ColorCurveOperation.cpp
+  COM_ColorMatteOperation.cpp
+  lightprobe_lib.glsl.c
+  lightprobe_filter_glossy_frag.glsl.c
+  lightprobe_filter_diffuse_frag.glsl.c
+  lightprobe_filter_visibility_frag.glsl.c
+  lightprobe_geom.glsl.c
+  lightprobe_vert.glsl.c
+  lightprobe_cube_display_frag.glsl.c
+  lightprobe_cube_display_vert.glsl.c
+  lightprobe_grid_display_frag.glsl.c
+  COM_ColorRampOperation.cpp
+  COM_CurveBaseOperation.cpp
+  lightprobe_grid_display_vert.glsl.c
+  lightprobe_grid_fill_frag.glsl.c
+  lightprobe_planar_display_frag.glsl.c
+  lightprobe_planar_display_vert.glsl.c
+  lit_surface_frag.glsl.c
+  lit_surface_vert.glsl.c
+  effect_bloom_frag.glsl.c
+  effect_dof_vert.glsl.c
+  COM_DifferenceMatteOperation.cpp
+  effect_dof_frag.glsl.c
+  effect_downsample_frag.glsl.c
+  effect_downsample_cube_frag.glsl.c
+  effect_gtao_frag.glsl.c
+  effect_velocity_resolve_frag.glsl.c
+  effect_minmaxz_frag.glsl.c
+  effect_mist_frag.glsl.c
+  effect_motion_blur_frag.glsl.c
+  effect_ssr_frag.glsl.c
+  effect_subsurface_frag.glsl.c
+  effect_translucency_frag.glsl.c
+  effect_temporal_aa.glsl.c
+  lightprobe_planar_downsample_frag.glsl.c
+  lightprobe_planar_downsample_geom.glsl.c
+  lightprobe_planar_downsample_vert.glsl.c
+  prepass_frag.glsl.c
+  COM_DistanceRGBMatteOperation.cpp
+  prepass_vert.glsl.c
+  shadow_accum_frag.glsl.c
+  shadow_frag.glsl.c
+  shadow_vert.glsl.c
+  bsdf_lut_frag.glsl.c
+  btdf_lut_frag.glsl.c
+  COM_DistanceYCCMatteOperation.cpp
+  bsdf_common_lib.glsl.c
+  COM_HueSaturationValueCorrectOperation.cpp
+  irradiance_lib.glsl.c
+  octahedron_lib.glsl.c
+  COM_LuminanceMatteOperation.cpp
+  cubemap_lib.glsl.c
+  bsdf_sampling_lib.glsl.c
+  raytrace_lib.glsl.c
+  renderpass_postprocess_frag.glsl.c
+  COM_VectorCurveOperation.cpp
+  ltc_lib.glsl.c
+  ssr_lib.glsl.c
+  update_noise_frag.glsl.c
+  COM_BrightnessOperation.cpp
+  volumetric_accum_frag.glsl.c
+  volumetric_lib.glsl.c
+  volumetric_frag.glsl.c
+  volumetric_geom.glsl.c
+  volumetric_vert.glsl.c
+  volumetric_resolve_frag.glsl.c
+  volumetric_scatter_frag.glsl.c
+  COM_ColorCorrectionOperation.cpp
+  volumetric_integration_frag.glsl.c
+  workbench_cavity_lib.glsl.c
+  workbench_common_lib.glsl.c
+  workbench_composite_frag.glsl.c
+  workbench_curvature_lib.glsl.c
+  workbench_data_lib.glsl.c
+  workbench_effect_cavity_frag.glsl.c
+  COM_GammaOperation.cpp
+  workbench_effect_dof_frag.glsl.c
+  workbench_effect_outline_frag.glsl.c
+  COM_MixOperation.cpp
+  workbench_effect_smaa_frag.glsl.c
+  workbench_effect_smaa_vert.glsl.c
+  workbench_effect_taa_frag.glsl.c
+  workbench_image_lib.glsl.c
+  workbench_matcap_lib.glsl.c
+  workbench_material_lib.glsl.c
+  workbench_merge_infront_frag.glsl.c
+  COM_ReadBufferOperation.cpp
+  COM_SetColorOperation.cpp
+  workbench_prepass_frag.glsl.c
+  workbench_prepass_hair_vert.glsl.c
+  workbench_prepass_vert.glsl.c
+  workbench_shadow_caps_geom.glsl.c
+  workbench_shader_interface_lib.glsl.c
+  workbench_shadow_debug_frag.glsl.c
+  workbench_shadow_geom.glsl.c
+  gpu_context.cpp
+  COM_SetValueOperation.cpp
+  workbench_shadow_vert.glsl.c
+  workbench_transparent_accum_frag.glsl.c
+  workbench_transparent_resolve_frag.glsl.c
+  workbench_volume_frag.glsl.c
+  workbench_volume_vert.glsl.c
+  workbench_world_light_lib.glsl.c
+  common_colormanagement_lib.glsl.c
+  COM_SetVectorOperation.cpp
+  COM_WriteBufferOperation.cpp
+  common_globals_lib.glsl.c
+  common_hair_lib.glsl.c
+  common_hair_refine_vert.glsl.c
+  common_view_lib.glsl.c
+  common_fxaa_lib.glsl.c
+  common_smaa_lib.glsl.c
+  COM_MathBaseOperation.cpp
+  common_fullscreen_vert.glsl.c
+  gpencil_frag.glsl.c
+  gpencil_vert.glsl.c
+  COM_AlphaOverKeyOperation.cpp
+  COM_AlphaOverMixedOperation.cpp
+  gpencil_antialiasing_frag.glsl.c
+  gpencil_antialiasing_vert.glsl.c
+  gpencil_common_lib.glsl.c
+  gpencil_layer_blend_frag.glsl.c
+  gpencil_mask_invert_frag.glsl.c
+  gpencil_depth_merge_frag.glsl.c
+  gpencil_depth_merge_vert.glsl.c
+  gpencil_vfx_frag.glsl.c
+  COM_AlphaOverPremultiplyOperation.cpp
+  selection_id_3D_vert.glsl.c
+  selection_id_frag.glsl.c
+  conservative_depth_geom.glsl.c
+  conservative_depth_vert.glsl.c
+  conservative_depth_frag.glsl.c
+  antialiasing_frag.glsl.c
+  antialiasing_vert.glsl.c
+  COM_ColorBalanceASCCDLOperation.cpp
+  armature_dof_vert.glsl.c
+  armature_dof_solid_frag.glsl.c
+  armature_envelope_outline_vert.glsl.c
+  armature_envelope_solid_frag.glsl.c
+  armature_envelope_solid_vert.glsl.c
+  armature_shape_outline_geom.glsl.c
+  armature_shape_outline_vert.glsl.c
+  armature_shape_solid_frag.glsl.c
+  COM_ColorBalanceLGGOperation.cpp
+  COM_InvertOperation.cpp
+  armature_shape_solid_vert.glsl.c
+  armature_shape_wire_vert.glsl.c
+  armature_sphere_outline_vert.glsl.c
+  armature_sphere_solid_frag.glsl.c
+  armature_sphere_solid_vert.glsl.c
+  armature_stick_frag.glsl.c
+  armature_stick_vert.glsl.c
+  COM_MapRangeOperation.cpp
+  armature_wire_frag.glsl.c
+  armature_wire_vert.glsl.c
+  background_frag.glsl.c
+  clipbound_vert.glsl.c
+  depth_only_vert.glsl.c
+  edit_curve_handle_geom.glsl.c
+  edit_curve_handle_vert.glsl.c
+  edit_curve_point_vert.glsl.c
+  edit_curve_wire_vert.glsl.c
+  edit_gpencil_canvas_vert.glsl.c
+  edit_gpencil_guide_vert.glsl.c
+  edit_gpencil_vert.glsl.c
+  edit_lattice_point_vert.glsl.c
+  COM_MapValueOperation.cpp
+  edit_lattice_wire_vert.glsl.c
+  COM_SetAlphaOperation.cpp
+  edit_mesh_common_lib.glsl.c
+  edit_mesh_facefill_frag.glsl.c
+  edit_mesh_facefill_vert.glsl.c
+  COM_DisplaceOperation.cpp
+  edit_mesh_frag.glsl.c
+  edit_mesh_geom.glsl.c
+  edit_mesh_normal_vert.glsl.c
+  edit_mesh_analysis_frag.glsl.c
+  edit_mesh_analysis_vert.glsl.c
+  edit_mesh_skin_root_vert.glsl.c
+  edit_mesh_vert.glsl.c
+  COM_DisplaceSimpleOperation.cpp
+  edit_particle_strand_vert.glsl.c
+  COM_FlipOperation.cpp
+  edit_particle_point_vert.glsl.c
+  extra_frag.glsl.c
+  COM_MapUVOperation.cpp
+  extra_vert.glsl.c
+  bf_gpu.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_gpu.lib
+  extra_groundline_vert.glsl.c
+  extra_lightprobe_grid_vert.glsl.c
+  extra_loose_point_frag.glsl.c
+  extra_loose_point_vert.glsl.c
+  extra_point_vert.glsl.c
+  extra_wire_frag.glsl.c
+  extra_wire_vert.glsl.c
+  facing_frag.glsl.c
+  facing_vert.glsl.c
+  grid_frag.glsl.c
+  grid_vert.glsl.c
+  image_vert.glsl.c
+  image_frag.glsl.c
+  motion_path_line_geom.glsl.c
+  motion_path_line_vert.glsl.c
+  motion_path_point_vert.glsl.c
+  COM_PlaneCornerPinOperation.cpp
+  outline_detect_frag.glsl.c
+  COM_PlaneDistortCommonOperation.cpp
+  outline_prepass_frag.glsl.c
+  outline_prepass_geom.glsl.c
+  outline_prepass_vert.glsl.c
+  paint_face_vert.glsl.c
+  paint_point_vert.glsl.c
+  COM_PlaneTrackOperation.cpp
+  paint_texture_frag.glsl.c
+  paint_texture_vert.glsl.c
+  paint_vertcol_frag.glsl.c
+  paint_vertcol_vert.glsl.c
+  paint_weight_frag.glsl.c
+  paint_weight_vert.glsl.c
+  paint_wire_vert.glsl.c
+  COM_ProjectorLensDistortionOperation.cpp
+  COM_RotateOperation.cpp
+  particle_vert.glsl.c
+  particle_frag.glsl.c
+  pointcloud_vert.glsl.c
+  COM_ScaleOperation.cpp
+  pointcloud_frag.glsl.c
+  sculpt_mask_vert.glsl.c
+  sculpt_mask_frag.glsl.c
+  volume_velocity_vert.glsl.c
+  wireframe_vert.glsl.c
+  wireframe_frag.glsl.c
+  xray_fade_frag.glsl.c
+  COM_ScreenLensDistortionOperation.cpp
+  COM_TranslateOperation.cpp
+  COM_WrapOperation.cpp
+  COM_ConvolutionEdgeFilterOperation.cpp
+  COM_ConvolutionFilterOperation.cpp
+  COM_DenoiseOperation.cpp
+  bf_intern_libmv.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_intern_libmv.lib
+  COM_DespeckleOperation.cpp
+  COM_DilateErodeOperation.cpp
+  COM_GlareBaseOperation.cpp
+  COM_GlareFogGlowOperation.cpp
+  COM_GlareGhostOperation.cpp
+  COM_GlareSimpleStarOperation.cpp
+  bf_draw.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_draw.lib
+  Building Custom Rule D:/blender/src/blender/extern/draco/dracoenc/CMakeLists.txt
+  COM_GlareStreaksOperation.cpp
+  COM_GlareThresholdOperation.cpp
+  COM_InpaintOperation.cpp
+  COM_SetSamplerOperation.cpp
+  COM_ConvertOperation.cpp
+  COM_IDMaskOperation.cpp
+  keyframe_animation.cc
+  keyframe_animation_encoder.cc
+  attribute_octahedron_transform.cc
+  attribute_quantization_transform.cc
+  attribute_transform.cc
+  COM_DotproductOperation.cpp
+  geometry_attribute.cc
+  Building Custom Rule D:/blender/src/blender/extern/bullet2/CMakeLists.txt
+  COM_BoxMaskOperation.cpp
+  COM_EllipseMaskOperation.cpp
+  COM_ConvertColorProfileOperation.cpp
+  COM_MovieClipOperation.cpp
+  COM_AntiAliasOperation.cpp
+  point_attribute.cc
+  COM_MaskOperation.cpp
+  attributes_encoder.cc
+  kd_tree_attributes_encoder.cc
+  prediction_scheme_encoder_factory.cc
+  sequential_attribute_encoder.cc
+  sequential_attribute_encoders_controller.cc
+  sequential_integer_attribute_encoder.cc
+  btAxisSweep3.cpp
+  btBroadphaseProxy.cpp
+  btCollisionAlgorithm.cpp
+  btDbvt.cpp
+  btDbvtBroadphase.cpp
+  btDispatcher.cpp
+  sequential_normal_attribute_encoder.cc
+  btMultiSapBroadphase.cpp
+  btOverlappingPairCache.cpp
+  btQuantizedBvh.cpp
+  sequential_quantization_attribute_encoder.cc
+  btSimpleBroadphase.cpp
+  SphereTriangleDetector.cpp
+  btActivatingCollisionAlgorithm.cpp
+  adaptive_rans_bit_encoder.cc
+  btBox2dBox2dCollisionAlgorithm.cpp
+  direct_bit_encoder.cc
+  btBoxBoxCollisionAlgorithm.cpp
+  btBoxBoxDetector.cpp
+  btCollisionDispatcher.cpp
+  btCollisionObject.cpp
+  btCollisionWorld.cpp
+  btCollisionWorldImporter.cpp
+  btCompoundCollisionAlgorithm.cpp
+  rans_bit_encoder.cc
+  btCompoundCompoundCollisionAlgorithm.cpp
+  btConvex2dConvex2dAlgorithm.cpp
+  btConvexConcaveCollisionAlgorithm.cpp
+  symbol_bit_encoder.cc
+  encode.cc
+  btConvexConvexAlgorithm.cpp
+  Building Custom Rule D:/blender/src/blender/intern/cycles/graph/CMakeLists.txt
+  btConvexPlaneCollisionAlgorithm.cpp
+  btDefaultCollisionConfiguration.cpp
+  btEmptyCollisionAlgorithm.cpp
+  btGhostObject.cpp
+  shannon_entropy.cc
+  symbol_encoding.cc
+  btHashedSimplePairCache.cpp
+  btInternalEdgeUtility.cpp
+  expert_encode.cc
+  btManifoldResult.cpp
+  btSimulationIslandManager.cpp
+  mesh_edgebreaker_encoder.cc
+  btSphereBoxCollisionAlgorithm.cpp
+  btSphereSphereCollisionAlgorithm.cpp
+  btSphereTriangleCollisionAlgorithm.cpp
+  mesh_edgebreaker_encoder_impl.cc
+  mesh_encoder.cc
+  btUnionFind.cpp
+  btBox2dShape.cpp
+  btBoxShape.cpp
+  btBvhTriangleMeshShape.cpp
+  btCapsuleShape.cpp
+  btCollisionShape.cpp
+  btCompoundShape.cpp
+  mesh_sequential_encoder.cc
+  btConcaveShape.cpp
+  btConeShape.cpp
+  btConvex2dShape.cpp
+  btConvexHullShape.cpp
+  btConvexInternalShape.cpp
+  dynamic_integer_points_kd_tree_encoder.cc
+  btConvexPointCloudShape.cpp
+  btConvexPolyhedron.cpp
+  btConvexShape.cpp
+  btConvexTriangleMeshShape.cpp
+  float_points_tree_encoder.cc
+  btCylinderShape.cpp
+  btEmptyShape.cpp
+  point_cloud_encoder.cc
+  point_cloud_kd_tree_encoder.cc
+  btHeightfieldTerrainShape.cpp
+  btMinkowskiSumShape.cpp
+  btMultiSphereShape.cpp
+  btMultimaterialTriangleMeshShape.cpp
+  btOptimizedBvh.cpp
+  btPolyhedralConvexShape.cpp
+  btScaledBvhTriangleMeshShape.cpp
+  btShapeHull.cpp
+  btSphereShape.cpp
+  btStaticPlaneShape.cpp
+  btStridingMeshInterface.cpp
+  btTetrahedronShape.cpp
+  btTriangleBuffer.cpp
+  point_cloud_sequential_encoder.cc
+  btTriangleCallback.cpp
+  btTriangleIndexVertexArray.cpp
+  bit_utils.cc
+  bounding_box.cc
+  btTriangleIndexVertexMaterialArray.cpp
+  cycle_timer.cc
+  btTriangleMesh.cpp
+  btTriangleMeshShape.cpp
+  btUniformScalingShape.cpp
+  data_buffer.cc
+  divide.cc
+  btContactProcessing.cpp
+  draco_types.cc
+  btGImpactBvh.cpp
+  btGImpactCollisionAlgorithm.cpp
+  encoder_buffer.cc
+  btGImpactQuantizedBvh.cpp
+  btGImpactShape.cpp
+  btGenericPoolAllocator.cpp
+  hash_utils.cc
+  btTriangleShapeEx.cpp
+  options.cc
+  gim_box_set.cpp
+  gim_contact.cpp
+  quantization_utils.cc
+  gim_memory.cpp
+  gim_tri_collision.cpp
+  corner_table.cc
+  btContinuousConvexCollision.cpp
+  mesh_are_equivalent.cc
+  mesh_attribute_corner_table.cc
+  mesh.cc
+  mesh_cleanup.cc
+  btConvexCast.cpp
+  btGjkConvexCast.cpp
+  mesh_misc_functions.cc
+  btGjkEpa2.cpp
+  btGjkEpaPenetrationDepthSolver.cpp
+  mesh_stripifier.cc
+  btGjkPairDetector.cpp
+  btMinkowskiPenetrationDepthSolver.cpp
+  btPersistentManifold.cpp
+  btPolyhedralContactClipping.cpp
+  triangle_soup_mesh_builder.cc
+  btRaycastCallback.cpp
+  btSubSimplexConvexCast.cpp
+  geometry_metadata.cc
+  bf_compositor.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\bf_compositor.lib
+  btVoronoiSimplexSolver.cpp
+  metadata.cc
+  metadata_encoder.cc
+  btKinematicCharacterController.cpp
+  btConeTwistConstraint.cpp
+  point_cloud_builder.cc
+  point_cloud.cc
+  btContactConstraint.cpp
+  btFixedConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGeneric6DofSpring2Constraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btHinge2Constraint.cpp
+  btHingeConstraint.cpp
+  btNNCGConstraintSolver.cpp
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+  Building Custom Rule D:/blender/src/blender/extern/ceres/CMakeLists.txt
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  Bullet-C-API.cpp
+  btDiscreteDynamicsWorld.cpp
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+  btMultiBody.cpp
+  Building Custom Rule D:/blender/src/blender/extern/clew/CMakeLists.txt
+  array_utils.cc
+  btMultiBodyConstraint.cpp
+  btMultiBodyConstraintSolver.cpp
+  blas.cc
+  btMultiBodyDynamicsWorld.cpp
+  block_evaluate_preparer.cc
+  block_jacobian_writer.cc
+  block_jacobi_preconditioner.cc
+  block_random_access_dense_matrix.cc
+  btMultiBodyJointLimitConstraint.cpp
+  block_random_access_diagonal_matrix.cc
+  btMultiBodyJointMotor.cpp
+  btMultiBodyPoint2Point.cpp
+  block_random_access_matrix.cc
+  btDantzigLCP.cpp
+  btLemkeAlgorithm.cpp
+  btMLCPSolver.cpp
+  btRaycastVehicle.cpp
+  btWheelInfo.cpp
+  block_random_access_sparse_matrix.cc
+  btDefaultSoftBodySolver.cpp
+  btSoftBody.cpp
+  block_sparse_matrix.cc
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btAlignedAllocator.cpp
+  block_structure.cc
+  clew.c
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  callbacks.cc
+  btQuickprof.cpp
+  btSerializer.cpp
+  btVector3.cpp
+  c_api.cc
+  cgnr_solver.cc
+  compressed_col_sparse_matrix_utils.cc
+  compressed_row_jacobian_writer.cc
+  compressed_row_sparse_matrix.cc
+  conditioned_cost_function.cc
+  conjugate_gradients_solver.cc
+  extern_clew.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_clew.lib
+  coordinate_descent_minimizer.cc
+  corrector.cc
+  covariance.cc
+  covariance_impl.cc
+  dracoenc.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\dracoenc.lib
+  dense_normal_cholesky_solver.cc
+  extern_bullet.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_bullet.lib
+  dense_qr_solver.cc
+  dense_sparse_matrix.cc
+  node.cpp
+  node_type.cpp
+  node_xml.cpp
+  detect_structure.cc
+  Building Custom Rule D:/blender/src/blender/extern/draco/CMakeLists.txt
+  dogleg_strategy.cc
+  dynamic_compressed_row_jacobian_writer.cc
+  dynamic_compressed_row_sparse_matrix.cc
+  evaluator.cc
+  file.cc
+  draco-compressor.cpp
+  partitioned_matrix_view_d_d_d.cc
+  schur_eliminator_d_d_d.cc
+  Building Custom Rule D:/blender/src/blender/extern/cuew/CMakeLists.txt
+  cuew.c
+  gradient_checker.cc
+  cycles_graph.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_graph.lib
+  gradient_checking_cost_function.cc
+    正在创建库 D:/blender/src/build_windows_x64_vc16_Release/lib/Release/extern_draco.lib 和对象 D:/blender/src/build_windows_x64_vc16_Release/lib/Release/extern_draco.exp
+  extern_cuew.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_cuew.lib
+  extern_draco.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_draco.dll
+  gradient_problem.cc
+  gradient_problem_solver.cc
+  implicit_schur_complement.cc
+  Building Custom Rule D:/blender/src/blender/extern/curve_fit_nd/CMakeLists.txt
+  is_close.cc
+  iterative_schur_complement_solver.cc
+  lapack.cc
+  levenberg_marquardt_strategy.cc
+  linear_least_squares_problems.cc
+  Building Custom Rule D:/blender/src/blender/extern/gflags/CMakeLists.txt
+  linear_operator.cc
+  linear_solver.cc
+  curve_fit_cubic.c
+  curve_fit_cubic_refit.c
+  curve_fit_corners_detect.c
+  generic_heap.c
+  line_search.cc
+  line_search_direction.cc
+  line_search_minimizer.cc
+  line_search_preprocessor.cc
+  local_parameterization.cc
+  gflags.cc
+  gflags_completions.cc
+  gflags_reporting.cc
+  windows_port.cc
+  loss_function.cc
+  low_rank_inverse_hessian.cc
+  minimizer.cc
+  normal_prior.cc
+  parameter_block_ordering.cc
+  Building Custom Rule D:/blender/src/blender/intern/cycles/render/CMakeLists.txt
+  partitioned_matrix_view.cc
+  polynomial.cc
+  preconditioner.cc
+  preprocessor.cc
+  problem.cc
+  problem_impl.cc
+  extern_gflags.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_gflags.lib
+  program.cc
+  reorder_program.cc
+  extern_curve_fit_nd.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_curve_fit_nd.lib
+  residual_block.cc
+  Building Custom Rule D:/blender/src/blender/extern/glew/CMakeLists.txt
+  attribute.cpp
+  background.cpp
+  bake.cpp
+  buffers.cpp
+  camera.cpp
+  residual_block_utils.cc
+  colorspace.cpp
+  schur_complement_solver.cc
+  schur_eliminator.cc
+  schur_jacobi_preconditioner.cc
+  scratch_evaluate_preparer.cc
+  constant_fold.cpp
+  glew.c
+  coverage.cpp
+  solver.cc
+  solver_utils.cc
+  sparse_matrix.cc
+  denoising.cpp
+  sparse_normal_cholesky_solver.cc
+  film.cpp
+  geometry.cpp
+  graph.cpp
+  hair.cpp
+  split.cc
+  stringprintf.cc
+  triplet_sparse_matrix.cc
+  trust_region_minimizer.cc
+  trust_region_preprocessor.cc
+  trust_region_step_evaluator.cc
+  image.cpp
+  trust_region_strategy.cc
+  types.cc
+  wall_time.cc
+  image_oiio.cpp
+  partitioned_matrix_view_2_2_2.cc
+  partitioned_matrix_view_2_2_3.cc
+  partitioned_matrix_view_2_2_4.cc
+  partitioned_matrix_view_2_2_d.cc
+  image_vdb.cpp
+  integrator.cpp
+  partitioned_matrix_view_2_3_3.cc
+  jitter.cpp
+  partitioned_matrix_view_2_3_4.cc
+  light.cpp
+  merge.cpp
+  mesh.cpp
+  partitioned_matrix_view_2_3_6.cc
+  extern_glew.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_glew.lib
+  mesh_displace.cpp
+  partitioned_matrix_view_2_3_9.cc
+  mesh_subdivision.cpp
+  mesh_volume.cpp
+  nodes.cpp
+  partitioned_matrix_view_2_3_d.cc
+  Building Custom Rule D:/blender/src/blender/extern/glog/CMakeLists.txt
+  partitioned_matrix_view_2_4_3.cc
+  object.cpp
+  partitioned_matrix_view_2_4_4.cc
+  partitioned_matrix_view_2_4_8.cc
+  particles.cpp
+  partitioned_matrix_view_2_4_9.cc
+  curves.cpp
+  partitioned_matrix_view_2_4_d.cc
+  logging.cc
+  raw_logging.cc
+  utilities.cc
+  vlog_is_on.cc
+  port.cc
+  scene.cpp
+  session.cpp
+  partitioned_matrix_view_2_d_d.cc
+  shader.cpp
+  sobol.cpp
+  stats.cpp
+  partitioned_matrix_view_4_4_2.cc
+  svm.cpp
+  partitioned_matrix_view_4_4_3.cc
+  tables.cpp
+  partitioned_matrix_view_4_4_4.cc
+  tile.cpp
+  partitioned_matrix_view_4_4_d.cc
+  schur_eliminator_2_2_2.cc
+  schur_eliminator_2_2_3.cc
+  extern_glog.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_glog.lib
+  schur_eliminator_2_2_4.cc
+  Building Custom Rule D:/blender/src/blender/extern/lzma/CMakeLists.txt
+  schur_eliminator_2_2_d.cc
+  schur_eliminator_2_3_3.cc
+  osl.cpp
+  schur_eliminator_2_3_4.cc
+  Alloc.c
+  LzFind.c
+  LzmaDec.c
+  LzmaEnc.c
+  LzmaLib.c
+  schur_eliminator_2_3_6.cc
+  extern_lzma.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_lzma.lib
+  cycles_render.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_render.lib
+  Building Custom Rule D:/blender/src/blender/extern/mantaflow/CMakeLists.txt
+  schur_eliminator_2_3_9.cc
+  Building Custom Rule D:/blender/src/blender/extern/lzo/CMakeLists.txt
+  schur_eliminator_2_3_d.cc
+  schur_eliminator_2_4_3.cc
+  schur_eliminator_2_4_4.cc
+  minilzo.c
+  cnpy.cpp
+  commonkernels.h.reg.cpp
+  conjugategrad.cpp
+  conjugategrad.h.reg.cpp
+  edgecollapse.cpp
+  edgecollapse.h.reg.cpp
+  fastmarch.cpp
+  fastmarch.h.reg.cpp
+  ioutil.cpp
+  iogrids.cpp
+  extern_minilzo.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_minilzo.lib
+  schur_eliminator_2_4_8.cc
+  iomeshes.cpp
+  ioparticles.cpp
+  mantaio.h.reg.cpp
+  fluidsolver.cpp
+  fluidsolver.h.reg.cpp
+  Building Custom Rule D:/blender/src/blender/extern/quadriflow/CMakeLists.txt
+  general.cpp
+  general.h.reg.cpp
+  grid.cpp
+  grid.h.reg.cpp
+  grid4d.cpp
+  grid4d.h.reg.cpp
+  kernel.cpp
+  schur_eliminator_2_4_9.cc
+  schur_eliminator_2_4_d.cc
+  kernel.h.reg.cpp
+  levelset.cpp
+  adjacent-matrix.cpp
+  dedge.cpp
+  hierarchy.cpp
+  levelset.h.reg.cpp
+  loader.cpp
+  localsat.cpp
+  merge-vertex.cpp
+  mesh.cpp
+  mesh.h.reg.cpp
+  movingobs.cpp
+  optimizer.cpp
+  parametrizer.cpp
+  parametrizer-flip.cpp
+  movingobs.h.reg.cpp
+  multigrid.cpp
+  multigrid.h.reg.cpp
+  parametrizer-int.cpp
+  schur_eliminator_2_d_d.cc
+  noisefield.cpp
+  noisefield.h.reg.cpp
+  schur_eliminator_4_4_2.cc
+  schur_eliminator_4_4_3.cc
+  particle.cpp
+  particle.h.reg.cpp
+  advection.cpp
+  apic.cpp
+  extforces.cpp
+  fire.cpp
+  parametrizer-mesh.cpp
+  schur_eliminator_4_4_4.cc
+  flip.cpp
+  fluidguiding.cpp
+  initplugins.cpp
+  parametrizer-scale.cpp
+  kepsilon.cpp
+  parametrizer-sing.cpp
+  subdivide.cpp
+  meshplugins.cpp
+  schur_eliminator_4_4_d.cc
+  pressure.cpp
+  ptsplugins.cpp
+  secondaryparticles.cpp
+  surfaceturbulence.cpp
+  vortexplugins.cpp
+  arg_parser.cc
+  waveletturbulence.cpp
+  waves.cpp
+  defines.py.reg.cpp
+  registration.cpp
+  base.cc
+  shapes.cpp
+  shapes.h.reg.cpp
+  color.cc
+  test.cpp
+  lp_base.cc
+  timing.cpp
+  lp_skeleton.cc
+  timing.h.reg.cpp
+  turbulencepart.cpp
+  random.cc
+  windows.cc
+  turbulencepart.h.reg.cpp
+  vortexpart.cpp
+  vortexpart.h.reg.cpp
+  vortexsheet.cpp
+  vortexsheet.h.reg.cpp
+  pclass.cpp
+  pconvert.cpp
+  pvec3.cpp
+  registry.cpp
+  simpleimage.cpp
+  vector4d.cpp
+  vectorbase.cpp
+  extern_mantaflow.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_mantaflow.lib
+  Building Custom Rule D:/blender/src/blender/extern/rangetree/CMakeLists.txt
+  extern_quadriflow.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_quadriflow.lib
+  range_tree.c
+  Building Custom Rule D:/blender/src/blender/intern/cycles/kernel/osl/CMakeLists.txt
+  Building Custom Rule D:/blender/src/blender/extern/wcwidth/CMakeLists.txt
+  wcwidth.c
+  extern_rangetree.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_rangetree.lib
+  extern_wcwidth.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_wcwidth.lib
+  extern_ceres.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\extern_ceres.lib
+  background.cpp
+  bsdf_diffuse_ramp.cpp
+  bsdf_phong_ramp.cpp
+  emissive.cpp
+  osl_bssrdf.cpp
+  osl_closures.cpp
+  Building Custom Rule D:/blender/src/blender/source/blender/blentranslation/msgfmt/CMakeLists.txt
+  msgfmt.c
+  osl_services.cpp
+  osl_shader.cpp
+  msgfmt.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\bin\Release\msgfmt.exe
+  Generating ab.mo
+  Generating ar.mo
+  Generating ca.mo
+  Generating cs.mo
+  Generating de.mo
+  Generating eo.mo
+  Generating es.mo
+  Generating es_ES.mo
+  Generating eu.mo
+  Generating fa.mo
+  Generating fr.mo
+  Generating ha.mo
+  Generating he.mo
+  Generating hi.mo
+  Generating hr.mo
+  Generating hu.mo
+  Generating id.mo
+  Generating it.mo
+  Generating ja.mo
+  Generating ko.mo
+  Generating ky.mo
+  Generating nl.mo
+  Generating pl.mo
+  Generating pt.mo
+  Generating pt_BR.mo
+  Generating ru.mo
+  Generating sk.mo
+  Generating sr.mo
+  Generating sr@latin.mo
+  Generating sv.mo
+  Generating th.mo
+  Generating tr.mo
+  Generating uk.mo
+  Generating vi.mo
+  Generating zh_CN.mo
+  Generating zh_TW.mo
+  Building Custom Rule D:/blender/src/blender/source/creator/CMakeLists.txt
+  cycles_kernel_osl.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_kernel_osl.lib
+  Building Custom Rule D:/blender/src/blender/intern/cycles/kernel/CMakeLists.txt
+  kernel.cpp
+  kernel_sse2.cpp
+  kernel_sse3.cpp
+  kernel_sse41.cpp
+  kernel_split.cpp
+  kernel_split_sse2.cpp
+  kernel_split_sse3.cpp
+  kernel_split_sse41.cpp
+  filter.cpp
+  filter_sse2.cpp
+  filter_sse3.cpp
+  filter_sse41.cpp
+  kernel_avx.cpp
+  kernel_split_avx.cpp
+  filter_avx.cpp
+  kernel_avx2.cpp
+  kernel_split_avx2.cpp
+  filter_avx2.cpp
+  cycles_kernel.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_kernel.lib
+  Building Custom Rule D:/blender/src/blender/intern/cycles/device/CMakeLists.txt
+  device.cpp
+  device_cpu.cpp
+  device_cuda.cpp
+  device_denoising.cpp
+  device_memory.cpp
+  device_multi.cpp
+  device_opencl.cpp
+  device_optix.cpp
+  device_split_kernel.cpp
+  device_task.cpp
+  device_cuda_impl.cpp
+  device_opencl_impl.cpp
+  memory_manager.cpp
+  opencl_util.cpp
+  cycles_device.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_device.lib
+  Building Custom Rule D:/blender/src/blender/intern/cycles/bvh/CMakeLists.txt
+  bvh.cpp
+  bvh2.cpp
+  bvh4.cpp
+  bvh8.cpp
+  bvh_binning.cpp
+  bvh_build.cpp
+  bvh_embree.cpp
+  bvh_node.cpp
+  bvh_optix.cpp
+  bvh_sort.cpp
+  bvh_split.cpp
+  bvh_unaligned.cpp
+  cycles_bvh.vcxproj -> D:\blender\src\build_windows_x64_vc16_Release\lib\Release\cycles_bvh.lib
+
+生成失败。
+
+D:\blender\src\blender\source\blender\depsgraph\intern\depsgraph_tag.cc(242,3): warning C4062: 枚举数“ID_RECALC_TAG_FOR_UNDO”(在枚举“IDRecalcFlag”的 switch 中)没有被处理 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\depsgraph\bf_depsgraph.vcxproj]
+D:\blender\src\blender\source\blender\depsgraph\intern\depsgraph_tag.cc(742,3): warning C4062: 枚举数“ID_RECALC_TAG_FOR_UNDO”(在枚举“IDRecalcFlag”的 switch 中)没有被处理 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\depsgraph\bf_depsgraph.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): warning MSB8065: 项“D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\cd500e806ab7ec9c1ad2a237c93bc191\buildinfo.h_fake.rule”的自定义生成成功，但尚未创建指定的输出“d:\blender\src\build_windows_x64_vc16_release\source\creator\buildinfo.h_fake”。这可能会导致增量生成无法正常工作。 [D:\blender\src\build_windows_x64_vc16_Release\source\creator\buildinfo.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+D:\blender\src\blender\source\blender\io\usd\intern\usd_writer_mesh.cc(347,18): error C2039: "Bind": 不是 "usdBlender__pxrReserved__::UsdShadeMaterial" 的成员 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\io\usd\bf_usd.vcxproj]
+D:\blender\src\blender\source\blender\io\usd\intern\usd_writer_mesh.cc(385,18): error C2039: "Bind": 不是 "usdBlender__pxrReserved__::UsdShadeMaterial" 的成员 [D:\blender\src\build_windows_x64_vc16_Release\source\blender\io\usd\bf_usd.vcxproj]
+D:/blender/src/blender/intern/cycles/kernel/..\kernel/geom/geom_object.h(225): error : identifier "transform_to_euler" is undefined [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+D:/blender/src/blender/intern/cycles/kernel/..\kernel/geom/geom_object.h(240): error : identifier "transform_decompose_scale" is undefined [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): error MSB8066: “D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_30.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_30.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_35.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_35.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_37.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_37.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_50.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_50.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_52.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_52.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_60.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_60.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_61.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_61.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_70.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_70.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\filter_sm_75.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\471b4e7839982e1ddbfede086b14bfa2\kernel_sm_75.cubin.rule;D:\blender\src\build_windows_x64_vc16_Release\CMakeFiles\0b30338746e0d82caa066ea85ff714b6\cycles_kernel_cuda.rule”的自定义生成已退出，代码为 1。 [D:\blender\src\build_windows_x64_vc16_Release\intern\cycles\kernel\cycles_kernel_cuda.vcxproj]
+    47 个警告
+    5 个错误
+
+已用时间 00:13:22.76
